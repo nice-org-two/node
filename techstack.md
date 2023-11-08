@@ -132,7 +132,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [nice-org-two/node](https://github.com/nice-org-two/node)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|411<br/>Tools used|442<br/>Contributors|11/07/23 <br/>Report generated|07/21/22<br/>Last commit date|
+|411<br/>Tools used|442<br/>Contributors|11/08/23 <br/>Report generated|07/21/22<br/>Last commit date|
 |------|------|------|------|
 </div>
 
@@ -577,7 +577,7 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## <img src=''/> Software as a Service (SaaS) (1)
+## <img src='https://img.stackshare.io/saas.svg'/> Software as a Service (SaaS) (1)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/9/TtrFaQ3j_400x400.png' alt='Chartio'>
@@ -666,362 +666,362 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[@babel/cli](https://babeljs.io/)|v7.5.5|N/A|N/A |MIT|N/A|
-|[@babel/code-frame](https://babeljs.io/)|v7.5.5|N/A|N/A |MIT|N/A|
-|[@babel/core](https://babeljs.io/)|v7.7.4|N/A|N/A |MIT|N/A|
-|[@babel/generator](https://babeljs.io/)|v7.6.0|N/A|N/A |MIT|N/A|
-|[@babel/helper-module-imports](https://babeljs.io/)|v7.18.6|N/A|N/A |MIT|N/A|
-|[@babel/helper-plugin-utils](https://babeljs.io/)|v7.0.0|N/A|N/A |MIT|N/A|
-|[@babel/node](https://babeljs.io/)|v7.17.10|N/A|N/A |MIT|N/A|
-|[@babel/parser](https://babeljs.io/)|v7.6.0|N/A|N/A |MIT|N/A|
-|[@babel/plugin-transform-flow-strip-types](https://babeljs.io/)|v7.18.6|N/A|N/A |MIT|N/A|
-|[@babel/plugin-transform-modules-commonjs](https://babeljs.io/)|v7.5.0|N/A|N/A |MIT|N/A|
-|[@babel/polyfill](https://babeljs.io/)|v7.0.0|N/A|N/A |MIT|N/A|
-|[@babel/preset-env](https://babeljs.io/)|v7.2.3|N/A|N/A |MIT|N/A|
-|[@babel/preset-typescript](https://babeljs.io/)|v7.13.0|N/A|N/A |MIT|N/A|
-|[@babel/register](https://babeljs.io/)|v7.0.0|N/A|N/A |MIT|N/A|
-|[@babel/template](https://babeljs.io/)|v7.6.0|N/A|N/A |MIT|N/A|
-|[@babel/traverse](https://babeljs.io/)|v7.6.0|N/A|N/A |MIT|[CVE-2023-45133](https://github.com/advisories/GHSA-67hx-6x53-jw92) (Critical)|
-|[@babel/types](https://babeljs.io/)|v7.6.1|N/A|N/A |MIT|N/A|
-|[@commitlint/cli](https://github.com/conventional-changelog/commitlint)|v8.1.0|N/A|N/A |MIT|N/A|
-|[@commitlint/config-conventional](https://github.com/conventional-changelog/commitlint)|v8.1.0|N/A|N/A |MIT|N/A|
-|[@hapi/code](https://github.com/hapijs/code)|v8.0.1|N/A|N/A |BSD-3-Clause|N/A|
-|[@hapi/lab](https://github.com/hapijs/lab)|v24.1.0|N/A|N/A |BSD-3-Clause|N/A|
-|[@rollup/plugin-node-resolve](https://github.com/rollup/plugins/tree/master/packages/node-resolve/)|v13.3.0|N/A|N/A |MIT|N/A|
-|[@semantic-release/changelog](https://github.com/semantic-release/changelog)|v6.0.1|N/A|N/A |MIT|N/A|
-|[@semantic-release/git](https://github.com/semantic-release/git)|v10.0.1|N/A|N/A |MIT|N/A|
-|[@types/chai](http://definitelytyped.org/)|v4.1.7|N/A|N/A |MIT|N/A|
-|[@types/chalk](http://definitelytyped.org/)|v2.0.0|N/A|N/A |MIT|N/A|
-|[@types/d3](http://definitelytyped.org/)|v5.7.2|N/A|N/A |MIT|N/A|
-|[@types/debug](http://definitelytyped.org/)|v4.1.7|N/A|N/A |MIT|N/A|
-|[@types/eslint](http://definitelytyped.org/)|v4.16.2|N/A|N/A |MIT|N/A|
-|[@types/events](http://definitelytyped.org/)|v3.0.0|N/A|N/A |MIT|N/A|
-|[@types/jest](http://definitelytyped.org/)|v27.0.0|N/A|N/A |MIT|N/A|
-|[@types/jsdom](http://definitelytyped.org/)|v12.2.4|N/A|N/A |MIT|N/A|
-|[@types/mocha](http://definitelytyped.org/)|v5.2.7|N/A|N/A |MIT|N/A|
-|[@types/node](http://definitelytyped.org/)|v11.11.4|N/A|N/A |MIT|N/A|
-|[@types/semver](http://definitelytyped.org/)|v7.1.0|N/A|N/A |MIT|N/A|
-|[@types/sinon](http://definitelytyped.org/)|v10.0.6|N/A|N/A |MIT|N/A|
-|[@types/sinon-chai](http://definitelytyped.org/)|v3.2.7|N/A|N/A |MIT|N/A|
-|[@types/ws](http://definitelytyped.org/)|v6.0.3|N/A|N/A |MIT|N/A|
-|[@typescript-eslint/eslint-plugin](https://github.com/typescript-eslint/typescript-eslint)|v5.0.0|N/A|N/A |MIT|N/A|
-|[@typescript-eslint/parser](https://github.com/typescript-eslint/typescript-eslint)|v5.0.0|N/A|N/A |BSD-2-Clause|N/A|
-|[JSONStream](http://github.com/dominictarr/JSONStream)|v1.3.5|N/A|N/A |MIT,Apache-2.0|N/A|
-|[abbrev](https://github.com/isaacs/abbrev-js)|v1.1.1|N/A|N/A |ISC|N/A|
-|[acorn](https://github.com/acornjs/acorn)|v7.1.1|N/A|N/A |MIT|N/A|
-|[ajv](https://github.com/epoberezkin/ajv)|v6.10.2|N/A|N/A |MIT|[CVE-2020-15366](https://github.com/advisories/GHSA-v88g-cgmw-v5xw) (Moderate)|
-|[ansi](https://github.com/TooTallNate/ansi.js)|v0.3.1|N/A|N/A |MIT|N/A|
-|[ansi-regex](https://github.com/chalk/ansi-regex)|v3.0.0|N/A|N/A |MIT|[CVE-2021-3807](https://github.com/advisories/GHSA-93q8-gq69-wqmw) (High)|
-|[ansi-styles](https://github.com/chalk/ansi-styles)|v3.2.1|N/A|N/A |MIT|N/A|
-|[archy](https://github.com/substack/node-archy)|v1.0.0|N/A|N/A |MIT|N/A|
-|[argparse](https://github.com/nodeca/argparse)|v1.0.10|N/A|N/A |MIT|N/A|
-|[assert](https://github.com/browserify/commonjs-assert)|v1.4.0|N/A|N/A |MIT|N/A|
-|[async](https://caolan.github.io/async/)|v3.2.3|N/A|N/A |MIT|N/A|
-|[auto-changelog](https://github.com/CookPete/auto-changelog)|v2.4.0|N/A|N/A |MIT|N/A|
-|[autod](https://github.com/node-modules/autod)|v3.0.1|N/A|N/A |MIT|N/A|
-|[ava](https://avajs.dev)|v2.4.0|N/A|N/A |MIT|N/A|
-|[babel-cli](https://babeljs.io/)|v6.26.0|N/A|N/A |MIT|N/A|
-|[babel-core](https://babeljs.io/)|v6.26.3|N/A|N/A |MIT|N/A|
-|[babel-eslint](https://github.com/babel/babel-eslint)|v10.0.1|N/A|N/A |MIT|N/A|
-|[babel-jest](https://github.com/facebook/jest)|v24.9.0|N/A|N/A |MIT|N/A|
-|[babel-loader](https://github.com/babel/babel-loader)|v8.0.5|N/A|N/A |MIT|N/A|
-|[babel-plugin-add-module-exports](https://github.com/59naga/babel-plugin-add-module-exports)|v0.2.1|N/A|N/A |MIT|N/A|
-|[babel-plugin-dynamic-import-node](https://github.com/airbnb/babel-plugin-dynamic-import-node)|v2.3.3|N/A|N/A |MIT|N/A|
-|[babel-plugin-external-helpers](https://github.com/jquense/babel-plugin-external-helpers#readme)|v6.22.0|N/A|N/A |MIT|N/A|
-|[babel-plugin-istanbul](https://github.com/istanbuljs/babel-plugin-istanbul)|v6.1.1|N/A|N/A |BSD-3-Clause|N/A|
-|[babel-polyfill](https://babeljs.io/)|v6.23.0|N/A|N/A |MIT|N/A|
-|[babel-preset-env](https://babeljs.io/)|v1.6.1|N/A|N/A |MIT|N/A|
-|[babel-preset-es2015](https://babeljs.io/)|v6.3.13|N/A|N/A |MIT|N/A|
-|[babel-preset-latest](https://babeljs.io/)|v6.24.1|N/A|N/A |MIT|N/A|
-|[babel-register](https://babeljs.io/)|v6.26.0|N/A|N/A |MIT|N/A|
-|[balanced-match](https://github.com/juliangruber/balanced-match)|v1.0.0|N/A|N/A |MIT|N/A|
-|[benchmark](https://benchmarkjs.com/)|v2.1.4|N/A|N/A |MIT|N/A|
-|[bindings](https://github.com/TooTallNate/node-bindings)|v1.5.0|N/A|N/A |MIT|N/A|
-|[bl](https://github.com/rvagg/bl)|v2.0.0|N/A|N/A |MIT|[CVE-2020-8244](https://github.com/advisories/GHSA-pp7h-53gx-mx7r) (Moderate)|
-|[bluebird](https://github.com/petkaantonov/bluebird)|v3.5.3|N/A|N/A |MIT|N/A|
-|[brace-expansion](https://github.com/juliangruber/brace-expansion)|v1.1.11|N/A|N/A |MIT|N/A|
-|[brfs](https://github.com/substack/brfs)|v2.0.1|N/A|N/A |MIT|N/A|
-|[browserslist](https://github.com/browserslist/browserslist)|v4.20.2|N/A|N/A |MIT|N/A|
-|[busboy](https://github.com/mscdex/busboy)|v1.6.0|N/A|N/A |MIT|N/A|
-|[camelcase](https://github.com/sindresorhus/camelcase)|v5.3.1|N/A|N/A |MIT|N/A|
-|[caniuse-lite](https://github.com/ben-eb/caniuse-lite)|v1.0.30001366|N/A|N/A |CC-BY-4.0|N/A|
-|[chai-as-promised](https://github.com/domenic/chai-as-promised)|v7.1.1|N/A|N/A |WTFPL|N/A|
-|[chai-string](https://github.com/onechiporenko/chai-string)|v1.5.0|N/A|N/A |MIT|N/A|
-|[cheerio](https://cheerio.js.org/)|v0.22.0|N/A|N/A |MIT|N/A|
-|[circular-json](https://github.com/WebReflection/circular-json)|v0.5.9|N/A|N/A |MIT|N/A|
-|[clang-format](https://github.com/angular/clang-format)|v1.8.0|N/A|N/A |Apache-2.0|N/A|
-|[cli-color](https://github.com/medikoo/cli-color)|v0.2.3|N/A|N/A |ISC|N/A|
-|[cli-table](https://github.com/Automattic/cli-table)|v0.3.1|N/A|N/A |MIT|N/A|
-|[clone](https://github.com/pvorb/node-clone)|v1.0.2|N/A|N/A |MIT|N/A|
-|[coffee-script](http://coffeescript.org)|v1.6.3|N/A|N/A |MIT|N/A|
-|[color-convert](https://github.com/Qix-/color-convert)|v1.9.3|N/A|N/A |MIT|N/A|
-|[colors](https://github.com/Marak/colors.js)|v1.3.3|N/A|N/A |MIT|N/A|
-|[columnify](https://github.com/timoxley/columnify)|v1.6.0|N/A|N/A |MIT|N/A|
-|[commander](https://github.com/tj/commander.js)|v2.20.0|N/A|N/A |MIT|N/A|
-|[common-tags](https://github.com/declandewet/common-tags)|v1.8.0|N/A|N/A |MIT|N/A|
-|[concat-stream](https://github.com/maxogden/concat-stream)|v2.0.0|N/A|N/A |MIT|N/A|
-|[concurrently](https://github.com/kimmobrunfeldt/concurrently)|v7.1.0|N/A|N/A |MIT|N/A|
-|[conventional-github-releaser](https://github.com/conventional-changelog/releaser-tools)|N/A|N/A|N/A |MIT|N/A|
-|[convert-source-map](https://github.com/thlorenz/convert-source-map)|v1.6.0|N/A|N/A |MIT|N/A|
-|[core-js](https://github.com/zloirock/core-js)|v2.6.5|N/A|N/A |MIT|N/A|
-|[core-util-is](https://github.com/isaacs/core-util-is)|v1.0.2|N/A|N/A |MIT|N/A|
-|[covert](https://github.com/substack/covert)|v1.1.0|N/A|N/A |MIT|N/A|
-|[cpy-cli](https://github.com/sindresorhus/cpy-cli)|v2.0.0|N/A|N/A |MIT|N/A|
-|[cross-env](https://github.com/kentcdodds/cross-env)|v6.0.3|N/A|N/A |MIT|N/A|
-|[cross-spawn](https://github.com/moxystudio/node-cross-spawn)|v4.0.2|N/A|N/A |MIT|N/A|
-|[d3](https://d3js.org)|v5.7.0|N/A|N/A |ISC|N/A|
-|[dateformat](https://github.com/felixge/node-dateformat)|v1.0.11|N/A|N/A |MIT|N/A|
-|[debug](https://github.com/visionmedia/debug)|v4.1.1|N/A|N/A |MIT|[CVE-2017-16137](https://github.com/advisories/GHSA-gxpj-cx7g-858c) (Moderate)|
-|[decamelize](https://github.com/sindresorhus/decamelize)|v1.2.0|N/A|N/A |MIT|N/A|
-|[dedent](https://github.com/dmnd/dedent)|v0.7.0|N/A|N/A |MIT|N/A|
-|[defaults](https://github.com/tmpvar/defaults)|v1.0.3|N/A|N/A |MIT|N/A|
-|[del](https://github.com/sindresorhus/del)|v6.0.0|N/A|N/A |MIT|N/A|
-|[del-cli](https://github.com/sindresorhus/del-cli)|v3.0.0|N/A|N/A |MIT|N/A|
-|[delay](https://github.com/sindresorhus/delay)|v4.1.0|N/A|N/A |MIT|N/A|
-|[depd](https://github.com/dougwilson/nodejs-depd)|v2.0.0|N/A|N/A |MIT|N/A|
-|[diff](https://github.com/kpdecker/jsdiff)|v4.0.1|N/A|N/A |BSD-3-Clause|N/A|
-|[doctrine](https://github.com/eslint/doctrine)|v3.0.0|N/A|N/A |Apache-2.0|N/A|
-|[dot](http://github.com/olado/doT)|v1.0.3|N/A|N/A |MIT|[CVE-2020-8141](https://github.com/advisories/GHSA-297x-8xj4-vcxv) (High)<br/>[](https://github.com/advisories/GHSA-4859-gpc7-4j66) (Moderate)|
-|[dot-prop](https://github.com/sindresorhus/dot-prop)|v4.2.0|N/A|N/A |MIT|[CVE-2020-8116](https://github.com/advisories/GHSA-ff7x-qrg7-qggm) (High)|
-|[dts-bundle](https://github.com/grunt-ts/dts-bundle)|v0.7.3|N/A|N/A |MIT|N/A|
-|[dtslint](https://github.com/Microsoft/dtslint)|v4.0.0|N/A|N/A |MIT|N/A|
-|[egg-bin](https://github.com/eggjs/egg-bin)|v4.9.0|N/A|N/A |MIT|N/A|
-|[egg-ci](https://github.com/eggjs/egg-ci)|v1.10.0|N/A|N/A |MIT|N/A|
-|[ejs](https://github.com/mde/ejs)|v3.0.2|N/A|N/A |Apache-2.0|[CVE-2022-29078](https://github.com/advisories/GHSA-phwq-j96m-2c2q) (Critical)|
-|[end-of-stream](https://github.com/mafintosh/end-of-stream)|v1.4.0|N/A|N/A |MIT|N/A|
-|[escape-string-regexp](https://github.com/sindresorhus/escape-string-regexp)|v1.0.5|N/A|N/A |MIT|N/A|
-|[eslint-config-airbnb](https://github.com/airbnb/javascript)|v17.1.0|N/A|N/A |MIT|N/A|
-|[eslint-config-airbnb-base](https://github.com/airbnb/javascript)|v14.2.0|N/A|N/A |MIT|N/A|
-|[eslint-config-egg](https://github.com/eggjs/eslint-config-egg)|v7.1.0|N/A|N/A |MIT|N/A|
-|[eslint-config-eslint](https://eslint.org)|v5.0.1|N/A|N/A |MIT|N/A|
-|[eslint-config-google](https://github.com/google/eslint-config-google)|v0.11.0|N/A|N/A |Apache-2.0|N/A|
-|[eslint-config-prettier](https://github.com/prettier/eslint-config-prettier)|v4.1.0|N/A|N/A |MIT|N/A|
-|[eslint-config-standard](https://github.com/standard/eslint-config-standard)|v7.1.0|N/A|N/A |MIT|N/A|
-|[eslint-import-resolver-typescript](https://github.com/alexgorbatchev/eslint-import-resolver-typescript)|v1.1.1|N/A|N/A |ISC|N/A|
-|[eslint-plugin-compat](https://github.com/amilajack/eslint-plugin-compat)|v4.0.2|N/A|N/A |MIT|N/A|
-|[eslint-plugin-eslint-comments](https://github.com/mysticatea/eslint-plugin-eslint-comments)|v3.2.0|N/A|N/A |MIT|N/A|
-|[eslint-plugin-html](https://github.com/BenoitZugmeyer/eslint-plugin-html)|v6.2.0|N/A|N/A |ISC|N/A|
-|[eslint-plugin-import](https://github.com/benmosher/eslint-plugin-import)|v2.16.0|N/A|N/A |MIT|N/A|
-|[eslint-plugin-jsdoc](https://github.com/gajus/eslint-plugin-jsdoc)|v39.2.9|N/A|N/A |BSD-3-Clause|N/A|
-|[eslint-plugin-jsx-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y)|v6.2.1|N/A|N/A |MIT|N/A|
-|[eslint-plugin-markdown](https://github.com/eslint/eslint-plugin-markdown)|v1.0.0|N/A|N/A |MIT|N/A|
-|[eslint-plugin-mocha](https://github.com/lo1tuma/eslint-plugin-mocha)|v8.0.0|N/A|N/A |MIT|N/A|
-|[eslint-plugin-no-only-tests](https://github.com/levibuzolic/no-only-tests)|v2.6.0|N/A|N/A |MIT|N/A|
-|[eslint-plugin-no-use-extend-native](https://github.com/dustinspecker/eslint-plugin-no-use-extend-native)|v0.5.0|N/A|N/A |MIT|N/A|
-|[eslint-plugin-node](https://github.com/mysticatea/eslint-plugin-node)|v11.1.0|N/A|N/A |MIT|N/A|
-|[eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier)|v3.0.0|N/A|N/A |MIT|N/A|
-|[eslint-plugin-promise](https://github.com/xjamundx/eslint-plugin-promise)|v3.6.0|N/A|N/A |ISC|N/A|
-|[eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react)|v7.12.4|N/A|N/A |MIT|N/A|
-|[eslint-plugin-react-hooks](https://reactjs.org/)|v4.0.0|N/A|N/A |MIT|N/A|
-|[eslint-plugin-security](https://github.com/nodesecurity/eslint-plugin-security)|v1.0.0|N/A|N/A |Apache-2.0|N/A|
-|[eslint-plugin-standard](https://github.com/standard/eslint-plugin-standard)|v3.0.1|N/A|N/A |MIT|N/A|
-|[eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn)|v42.0.0|N/A|N/A |MIT|N/A|
-|[esm](https://github.com/standard-things/esm)|v3.2.25|N/A|N/A |MIT|N/A|
-|[espree](https://github.com/eslint/espree)|v6.2.1|N/A|N/A |BSD-2-Clause|N/A|
-|[esprima](http://esprima.org)|v4.0.1|N/A|N/A |BSD-2-Clause|N/A|
-|[esprima-fb](https://github.com/facebook/esprima/tree/fb-harmony)|v8001.2001.0|N/A|N/A |BSD-2-Clause|N/A|
-|[estraverse](https://github.com/estools/estraverse)|v5.0.0|N/A|N/A |BSD-2-Clause|N/A|
-|[esutils](https://github.com/estools/esutils)|v2.0.3|N/A|N/A |BSD-2-Clause|N/A|
-|[events](https://github.com/Gozala/events)|v1.0.1|N/A|N/A |MIT|N/A|
-|[execa](https://github.com/sindresorhus/execa)|v4.0.0|N/A|N/A |MIT|N/A|
-|[expect](https://github.com/facebook/jest)|v22.4.0|N/A|N/A |MIT|N/A|
-|[expect.js](https://github.com/LearnBoost/expect.js)|v0.3.1|N/A|N/A |MIT|N/A|
-|[fast-deep-equal](https://github.com/epoberezkin/fast-deep-equal)|v2.0.1|N/A|N/A |MIT|N/A|
-|[fast-glob](https://github.com/mrmlnc/fast-glob)|v2.2.3|N/A|N/A |MIT|N/A|
-|[flow-bin](https://github.com/flowtype/flow-bin)|v0.68.0|N/A|N/A |MIT|N/A|
-|[form-data](https://github.com/form-data/form-data)|v2.3.3|N/A|N/A |MIT|N/A|
-|[function-bind](https://github.com/Raynos/function-bind)|v1.1.1|N/A|N/A |MIT|N/A|
-|[gh-pages](https://github.com/tschaub/gh-pages)|v3.1.0|N/A|N/A |MIT|N/A|
-|[glob](https://github.com/isaacs/node-glob)|v7.1.4|N/A|N/A |ISC|N/A|
-|[got](https://github.com/sindresorhus/got)|v11.8.3|N/A|N/A |MIT|[CVE-2022-33987](https://github.com/advisories/GHSA-pfrx-2q88-qq97) (Moderate)|
-|[graceful-fs](https://github.com/isaacs/node-graceful-fs)|v4.2.2|N/A|N/A |ISC|N/A|
-|[gray-matter](https://github.com/jonschlinkert/gray-matter)|v4.0.3|N/A|N/A |MIT|N/A|
-|[grunt-babel](https://github.com/babel/grunt-babel)|v8.0.0|N/A|N/A |MIT|N/A|
-|[grunt-cli](https://github.com/gruntjs/grunt-cli)|v1.3.2|N/A|N/A |MIT|N/A|
-|[grunt-contrib-clean](https://github.com/gruntjs/grunt-contrib-clean)|v2.0.0|N/A|N/A |MIT|N/A|
-|[grunt-contrib-copy](https://github.com/gruntjs/grunt-contrib-copy)|v1.0.0|N/A|N/A |MIT|N/A|
-|[grunt-contrib-jshint](https://github.com/gruntjs/grunt-contrib-jshint)|v0.4.3|N/A|N/A |MIT|N/A|
-|[grunt-contrib-uglify](https://github.com/gruntjs/grunt-contrib-uglify)|v5.0.0|N/A|N/A |MIT|N/A|
-|[grunt-contrib-watch](https://github.com/gruntjs/grunt-contrib-watch)|v1.1.0|N/A|N/A |MIT|N/A|
-|[grunt-eslint](https://github.com/sindresorhus/grunt-eslint)|v23.0.0|N/A|N/A |MIT|N/A|
-|[grunt-exec](https://github.com/jharding/grunt-exec)|v3.0.0|N/A|N/A |MIT|N/A|
-|[grunt-karma](https://github.com/karma-runner/grunt-karma)|v4.0.0|N/A|N/A |MIT|[CVE-2022-37602](https://github.com/advisories/GHSA-hcj4-xf6x-63wj) (Critical)|
-|[grunt-mocha-istanbul](https://github.com/pocesar/grunt-mocha-istanbul)|v5.0.2|N/A|N/A |MIT|N/A|
-|[grunt-mocha-test](https://github.com/pghalliday/grunt-mocha-test)|v0.13.3|N/A|N/A |MIT|N/A|
-|[grunt-webpack](https://github.com/webpack-contrib/grunt-webpack)|v3.1.3|N/A|N/A |MIT|N/A|
-|[gulp-bump](http://github.com/stevelacy/gulp-bump)|v0.2.2|N/A|N/A |MIT|N/A|
-|[gulp-eslint](https://github.com/adametry/gulp-eslint)|v4.0.0|N/A|N/A |MIT|N/A|
-|[gulp-filter](https://github.com/sindresorhus/gulp-filter)|v2.0.0|N/A|N/A |MIT|N/A|
-|[gulp-format-md](https://github.com/jonschlinkert/gulp-format-md)|v0.1.10|N/A|N/A |MIT|N/A|
-|[gulp-git](http://github.com/stevelacy/gulp-git)|v1.0.1|N/A|N/A |MIT|N/A|
-|[gulp-mocha](https://github.com/sindresorhus/gulp-mocha)|v4.3.1|N/A|N/A |MIT|N/A|
-|[gulp-tag-version](https://github.com/ikari-pl/gulp-tag-version)|v1.3.0|N/A|N/A |BSD-2-Clause|N/A|
-|[gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli)|v4.0.0|N/A|N/A |MIT|N/A|
-|[has](https://github.com/tarruda/has)|v1.0.3|N/A|N/A |MIT|N/A|
-|[highlight.js](https://highlightjs.org/)|v11.6.0|N/A|N/A |BSD-3-Clause|N/A|
-|[hosted-git-info](https://github.com/npm/hosted-git-info)|v2.8.4|N/A|N/A |ISC|[CVE-2021-23362](https://github.com/advisories/GHSA-43f8-2h32-f4cj) (Moderate)|
-|[https-proxy-agent](https://github.com/TooTallNate/node-https-proxy-agent)|v5.0.0|N/A|N/A |MIT|N/A|
-|[hyperquest](https://github.com/substack/hyperquest)|v2.1.3|N/A|N/A |MIT|N/A|
-|[iconv](https://github.com/bnoordhuis/node-iconv)|v2.3.5|N/A|N/A |ISC|N/A|
-|[iconv-lite](https://github.com/ashtuchkin/iconv-lite)|v0.4.24|N/A|N/A |MIT|N/A|
-|[ignore](https://github.com/kaelzhang/node-ignore)|v4.0.6|N/A|N/A |MIT|N/A|
-|[indent-string](https://github.com/sindresorhus/indent-string)|v4.0.0|N/A|N/A |MIT|N/A|
-|[inherits](https://github.com/isaacs/inherits)|v2.0.4|N/A|N/A |ISC|N/A|
-|[ini](https://github.com/isaacs/ini)|v3.0.0|N/A|N/A |ISC|N/A|
-|[ip](https://github.com/indutny/node-ip)|v1.1.5|N/A|N/A |MIT|N/A|
-|[is-glob](https://github.com/micromatch/is-glob)|v4.0.1|N/A|N/A |MIT|N/A|
-|[istanbul](https://github.com/gotwarlost/istanbul)|v0.4.5|N/A|N/A |BSD-3-Clause|N/A|
-|[jasmine-spec-reporter](https://github.com/bcaudan/jasmine-spec-reporter)|v4.1.1|N/A|N/A |Apache-2.0|N/A|
-|[jest-config](https://github.com/facebook/jest)|v27.5.1|N/A|N/A |MIT|N/A|
-|[js-beautify](https://beautifier.io/)|v1.7.3|N/A|N/A |MIT|N/A|
-|[js-yaml](https://github.com/nodeca/js-yaml)|v3.13.1|N/A|N/A |MIT|N/A|
-|[jscs](http://jscs.info)|v3.0.7|N/A|N/A |MIT|N/A|
-|[jsdoc](https://github.com/jsdoc/jsdoc)|v3.3.0|N/A|N/A |Apache-2.0|N/A|
-|[jsesc](https://mths.be/jsesc)|v2.5.2|N/A|N/A |MIT|N/A|
-|[json-stable-stringify](https://github.com/substack/json-stable-stringify)|N/A|N/A|N/A |MIT|N/A|
-|[json5](http://json5.org/)|v0.5.1|N/A|N/A |MIT|[CVE-2022-46175](https://github.com/advisories/GHSA-9c47-m6qq-7p4h) (High)|
-|[jsondiffpatch](https://github.com/benjamine/jsondiffpatch)|v0.3.5|N/A|N/A |MIT|N/A|
-|[karma-browserify](https://github.com/nikku/karma-browserify)|v6.0.0|N/A|N/A |MIT|N/A|
-|[karma-chrome-launcher](https://github.com/karma-runner/karma-chrome-launcher)|v2.2.0|N/A|N/A |MIT|N/A|
-|[karma-mocha](https://github.com/karma-runner/karma-mocha)|v1.3.0|N/A|N/A |MIT|N/A|
-|[karma-mocha-reporter](http://www.litixsoft.de/index.php?lang=en#modules)|v2.0.0|N/A|N/A |MIT|N/A|
-|[karma-sauce-launcher](https://github.com/karma-runner/karma-sauce-launcher)|v4.1.5|N/A|N/A |MIT|N/A|
-|[karma-sourcemap-loader](https://github.com/demerzel3/karma-sourcemap-loader)|v0.3.6|N/A|N/A |MIT|N/A|
-|[karma-webpack](https://github.com/webpack-contrib/karma-webpack)|v4.0.2|N/A|N/A |MIT|N/A|
-|[knox](https://github.com/LearnBoost/knox)|v0.8.10|N/A|N/A |MIT|N/A|
-|[lint-staged](https://github.com/okonet/lint-staged)|v5.0.0|N/A|N/A |MIT|N/A|
-|[load-grunt-tasks](https://github.com/sindresorhus/load-grunt-tasks)|v0.6.0|N/A|N/A |MIT|N/A|
-|[lodash.clonedeep](https://lodash.com/)|v4.5.0|N/A|N/A |MIT|N/A|
-|[lodash.defaultsdeep](https://lodash.com/)|v4.6.1|N/A|N/A |MIT|N/A|
-|[lodash.merge](https://lodash.com/)|v4.6.2|N/A|N/A |MIT|N/A|
-|[lolex](http://github.com/sinonjs/lolex)|v2.1.2|N/A|N/A |BSD-3-Clause|N/A|
-|[lru-cache](https://github.com/isaacs/node-lru-cache)|v4.1.5|N/A|N/A |ISC|N/A|
-|[markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli)|v0.31.1|N/A|N/A |MIT|N/A|
-|[marked](https://marked.js.org)|v4.0.8|N/A|N/A |MIT|[CVE-2022-21680](https://github.com/advisories/GHSA-rrrm-qjm4-v8hf) (High)<br/>[CVE-2022-21681](https://github.com/advisories/GHSA-5v2h-r2cx-5xgj) (High)|
-|[matcha](https://github.com/logicalparadox/matcha)|v0.7.0|N/A|N/A |MIT|N/A|
-|[minimatch](https://github.com/isaacs/minimatch)|v3.0.4|N/A|N/A |ISC|[CVE-2022-3517](https://github.com/advisories/GHSA-f8q6-p94x-37v3) (High)|
-|[minimist](https://github.com/substack/minimist)|v1.2.0|N/A|N/A |MIT|[CVE-2021-44906](https://github.com/advisories/GHSA-xvch-5gv4-984h) (Critical)<br/>[](https://github.com/advisories/GHSA-7fhm-mqm4-2wp7) (Moderate)<br/>[CVE-2020-7598](https://github.com/advisories/GHSA-vh95-rmgr-6w4m) (Moderate)|
-|[mkdirp](https://github.com/substack/node-mkdirp)|v0.5.1|N/A|N/A |MIT|N/A|
-|[mocha-junit-reporter](https://github.com/michaelleeallen/mocha-junit-reporter)|v2.0.0|N/A|N/A |MIT|N/A|
-|[mocha-lcov-reporter](https://github.com/StevenLooman/mocha-lcov-reporter)|v1.2.0|N/A|N/A |BSD-2-Clause|N/A|
-|[ms](https://github.com/zeit/ms)|v2.1.2|N/A|N/A |MIT|N/A|
-|[nan](https://github.com/nodejs/nan)|v2.14.2|N/A|N/A |MIT|N/A|
-|[natural](https://github.com/NaturalNode/natural)|v2.1.5|N/A|N/A |MIT|N/A|
-|[nock](https://github.com/nock/nock)|v13.0.4|N/A|N/A |MIT|N/A|
-|[node-gyp](https://github.com/nodejs/node-gyp)|v9.0.0|N/A|N/A |MIT|N/A|
-|[nodeunit](https://github.com/caolan/nodeunit)|v0.9.0|N/A|N/A |MIT|N/A|
-|[nopt](https://github.com/npm/nopt)|v5.0.0|N/A|N/A |ISC|N/A|
-|[normalize-package-data](https://github.com/npm/normalize-package-data)|v2.5.0|N/A|N/A |BSD-2-Clause|N/A|
-|[npm-check-updates](https://github.com/tjunnone/npm-check-updates)|N/A|N/A|N/A |Apache-2.0|N/A|
-|[npm-package-arg](https://github.com/npm/npm-package-arg)|v9.0.0|N/A|N/A |ISC|N/A|
-|[npm-run-all](https://github.com/mysticatea/npm-run-all)|v4.1.5|N/A|N/A |MIT|N/A|
-|[npmlog](https://github.com/npm/npmlog)|v6.0.2|N/A|N/A |ISC|N/A|
-|[nyc](https://github.com/istanbuljs/nyc)|v14.1.1|N/A|N/A |ISC|N/A|
-|[once](https://github.com/isaacs/once)|v1.4.0|N/A|N/A |ISC|N/A|
-|[opener](https://github.com/domenic/opener)|v1.5.1|N/A|N/A |WTFPL,MIT|N/A|
-|[p-map](https://github.com/sindresorhus/p-map)|v4.0.0|N/A|N/A |MIT|N/A|
-|[path-is-absolute](https://github.com/sindresorhus/path-is-absolute)|v1.0.1|N/A|N/A |MIT|N/A|
-|[pegjs](http://pegjs.org/)|v0.10.0|N/A|N/A |MIT|N/A|
-|[pkg](https://github.com/zeit/pkg)|v4.3.4|N/A|N/A |MIT|N/A|
-|[prelude-ls](http://preludels.com)|v1.1.2|N/A|N/A |MIT|N/A|
-|[prettier-eslint-cli](https://github.com/prettier/prettier-eslint-cli)|v4.7.1|N/A|N/A |MIT|N/A|
-|[prettier-standard](https://github.com/sheerun/prettier-standard)|v15.0.1|N/A|N/A |MIT|N/A|
-|[progress](https://github.com/visionmedia/node-progress)|v2.0.0|N/A|N/A |MIT|N/A|
-|[protobufjs](http://dcode.io/protobuf.js)|v6.8.8|N/A|N/A |BSD-3-Clause|N/A|
-|[proxyquire](https://github.com/thlorenz/proxyquire)|v2.1.3|N/A|N/A |MIT|N/A|
-|[pump](https://github.com/mafintosh/pump)|v3.0.0|N/A|N/A |MIT|N/A|
-|[punycode](https://mths.be/punycode)|v2.1.1|N/A|N/A |MIT|N/A|
-|[puppeteer](https://github.com/GoogleChrome/puppeteer)|v9.1.1|N/A|N/A |Apache-2.0|N/A|
-|[q](https://github.com/kriskowal/q)|v2.0.3|N/A|N/A |MIT|N/A|
-|[q-io](http://github.com/kriskowal/q-io/)|v2.0.3|N/A|N/A |MIT|N/A|
-|[qrcode-terminal](https://github.com/gtanner/qrcode-terminal)|v0.12.0|N/A|N/A |Apache-2.0|N/A|
-|[raw-body](https://github.com/stream-utils/raw-body)|v2.4.1|N/A|N/A |MIT|N/A|
-|[react-test-renderer](https://reactjs.org/)|v16.12.0|N/A|N/A |MIT|N/A|
-|[read](https://github.com/isaacs/read)|v1.0.7|N/A|N/A |ISC|N/A|
-|[readable-stream](https://github.com/nodejs/readable-stream)|v2.3.6|N/A|N/A |MIT|N/A|
-|[recast](http://github.com/benjamn/recast)|v0.20.4|N/A|N/A |MIT|N/A|
-|[regenerator-runtime](https://github.com/hackwaly/regenerator-runtime)|v0.13.3|N/A|N/A |MIT|N/A|
-|[remark-cli](https://remark.js.org)|v7.0.0|N/A|N/A |MIT|N/A|
-|[remark-parse](https://remark.js.org)|v10.0.1|N/A|N/A |MIT|N/A|
-|[remark-preset-wooorm](https://github.com/wooorm/remark-preset-wooorm)|v6.0.0|N/A|N/A |MIT|N/A|
-|[remark-stringify](https://remark.js.org)|v10.0.2|N/A|N/A |MIT|N/A|
-|[replace](https://github.com/ALMaclaine/replace)|v1.2.1|N/A|N/A |MIT|N/A|
-|[request](https://github.com/request/request)|v2.88.0|N/A|N/A |Apache-2.0|[CVE-2023-28155](https://github.com/advisories/GHSA-p8p7-x288-28g6) (Moderate)|
-|[resolve-from](https://github.com/sindresorhus/resolve-from)|v4.0.0|N/A|N/A |MIT|N/A|
-|[retry](https://github.com/tim-kos/node-retry)|v0.12.0|N/A|N/A |MIT|N/A|
-|[rimraf](https://github.com/isaacs/rimraf)|v2.7.1|N/A|N/A |ISC|N/A|
-|[rollup-plugin-babel](https://github.com/rollup/rollup-plugin-babel)|v4.2.0|N/A|N/A |MIT|N/A|
-|[rollup-plugin-buble](https://github.com/rollup/rollup-plugin-buble)|v0.19.6|N/A|N/A |MIT|N/A|
-|[rollup-plugin-cleanup](https://github.com/aMarCruz/rollup-plugin-cleanup)|v3.2.1|N/A|N/A |MIT|N/A|
-|[rollup-plugin-commonjs](https://github.com/rollup/rollup-plugin-commonjs)|v9.2.1|N/A|N/A |MIT|N/A|
-|[rollup-plugin-node-resolve](https://github.com/rollup/rollup-plugin-node-resolve)|v4.0.0|N/A|N/A |MIT|N/A|
-|[rollup-plugin-sourcemaps](https://github.com/maxdavidson/rollup-plugin-sourcemaps)|v0.4.2|N/A|N/A |MIT|N/A|
-|[rollup-plugin-terser](https://github.com/TrySound/rollup-plugin-terser)|v5.3.0|N/A|N/A |MIT|N/A|
-|[rollup-plugin-typescript2](https://github.com/ezolenko/rollup-plugin-typescript2)|v0.20.1|N/A|N/A |MIT|N/A|
-|[safe-buffer](https://github.com/feross/safe-buffer)|v5.1.2|N/A|N/A |MIT|N/A|
-|[safe-publish-latest](https://github.com/ljharb/safe-publish-latest)|v2.0.0|N/A|N/A |MIT|N/A|
-|[semantic-release](https://github.com/semantic-release/semantic-release)|v19.0.2|N/A|N/A |MIT|[CVE-2022-31051](https://github.com/advisories/GHSA-x2pg-mjhr-2m5x) (Moderate)|
-|[shelljs](http://github.com/shelljs/shelljs)|v0.8.3|N/A|N/A |BSD-3-Clause|[CVE-2022-0144](https://github.com/advisories/GHSA-4rq4-32rv-6wp6) (High)<br/>[](https://github.com/advisories/GHSA-64g7-mvw6-v9qj) (Moderate)|
-|[should](https://github.com/shouldjs/should.js)|v5.0.1|N/A|N/A |MIT|N/A|
-|[sinon-chai](https://github.com/domenic/sinon-chai)|v3.7.0|N/A|N/A |BSD-2-Clause,WTFPL|N/A|
-|[size-limit](https://github.com/ai/size-limit)|v7.0.8|N/A|N/A |MIT|N/A|
-|[slash](https://github.com/sindresorhus/slash)|v1.0.0|N/A|N/A |MIT|N/A|
-|[snazzy](https://github.com/feross/snazzy)|v9.0.0|N/A|N/A |MIT|N/A|
-|[source-map](https://github.com/mozilla/source-map)|v0.5.7|N/A|N/A |BSD-3-Clause|N/A|
-|[source-map-support](https://github.com/evanw/node-source-map-support)|v0.5.13|N/A|N/A |MIT|N/A|
-|[standard](https://standardjs.com)|v16.0.3|N/A|N/A |MIT|N/A|
-|[standard-version](https://github.com/conventional-changelog/standard-version)|v9.3.2|N/A|N/A |ISC|N/A|
-|[string-width](https://github.com/sindresorhus/string-width)|v2.1.1|N/A|N/A |MIT|N/A|
-|[strip-ansi](https://github.com/chalk/strip-ansi)|v4.0.0|N/A|N/A |MIT|N/A|
-|[strip-json-comments](https://github.com/sindresorhus/strip-json-comments)|v3.0.1|N/A|N/A |MIT|N/A|
-|[supports-color](https://github.com/chalk/supports-color)|v6.1.0|N/A|N/A |MIT|N/A|
-|[table](https://github.com/gajus/table)|v5.4.6|N/A|N/A |BSD-3-Clause|N/A|
-|[tap](http://www.node-tap.org/)|v14.6.4|N/A|N/A |ISC|N/A|
-|[tap-spec](https://github.com/scottcorgan/tap-spec)|v5.0.0|N/A|N/A |MIT|N/A|
-|[tape](https://github.com/substack/tape)|v0.1.1|N/A|N/A |MIT|N/A|
-|[tape-run](https://github.com/juliangruber/tape-run)|v6.0.0|N/A|N/A |MIT|N/A|
-|[tar](https://github.com/npm/node-tar)|v6.0.1|N/A|N/A |ISC|[CVE-2021-32804](https://github.com/advisories/GHSA-3jfq-g458-7qm9) (High)<br/>[CVE-2021-37701](https://github.com/advisories/GHSA-9r2w-394v-53qc) (High)<br/>[CVE-2021-32803](https://github.com/advisories/GHSA-r628-mhmh-qjhw) (High)<br/>[CVE-2021-37713](https://github.com/advisories/GHSA-5955-9wpr-37jh) (High)<br/>[CVE-2021-37712](https://github.com/advisories/GHSA-qq89-hq3f-393p) (High)|
-|[tar-fs](https://github.com/mafintosh/tar-fs)|v1.16.2|N/A|N/A |MIT|N/A|
-|[tar-stream](https://github.com/mafintosh/tar-stream)|v1.6.2|N/A|N/A |MIT|N/A|
-|[temp](https://github.com/bruce/node-temp)|v0.8.3|N/A|N/A |MIT|N/A|
-|[tempfile](https://github.com/sindresorhus/tempfile)|v3.0.0|N/A|N/A |MIT|N/A|
-|[tempy](https://github.com/sindresorhus/tempy)|v0.5.0|N/A|N/A |MIT|N/A|
-|[terser](https://terser.org)|v4.1.4|N/A|N/A |BSD-2-Clause|[CVE-2022-25858](https://github.com/advisories/GHSA-4wf5-vphf-c2xc) (High)|
-|[terser-webpack-plugin](https://github.com/webpack-contrib/terser-webpack-plugin)|v5.1.2|N/A|N/A |MIT|N/A|
-|text-table|v0.2.0|N/A|N/A |MIT|N/A|
-|[through2](https://github.com/rvagg/through2)|v2.0.3|N/A|N/A |MIT|N/A|
-|[tinyify](https://github.com/browserify/tinyify)|v2.0.0|N/A|N/A |Apache-2.0|N/A|
-|[tmp](http://github.com/raszi/node-tmp)|v0.0.33|N/A|N/A |MIT|N/A|
-|[ts-jest](https://kulshekhar.github.io/ts-jest)|v27.0.5|N/A|N/A |MIT|N/A|
-|[ts-loader](https://github.com/TypeStrong/ts-loader)|v9.0.0|N/A|N/A |MIT|N/A|
-|[ts-node](https://github.com/TypeStrong/ts-node)|v8.4.1|N/A|N/A |MIT|N/A|
-|[tsd](https://github.com/SamVerschueren/tsd)|v0.7.1|N/A|N/A |MIT|N/A|
-|[tslib](http://typescriptlang.org/)|v1.11.1|N/A|N/A |0BSD|N/A|
-|[typedoc](https://typedoc.org)|v0.22.10|N/A|N/A |Apache-2.0|N/A|
-|[uglify-js](https://github.com/mishoo/UglifyJS2)|v3.6.0|N/A|N/A |BSD-2-Clause|N/A|
-|[unified](https://unifiedjs.com)|v10.1.2|N/A|N/A |MIT|N/A|
-|[unist-util-visit](https://github.com/syntax-tree/unist-util-visit)|v4.1.0|N/A|N/A |MIT|N/A|
-|[validate-npm-package-name](https://github.com/npm/validate-npm-package-name)|v4.0.0|N/A|N/A |ISC|N/A|
-|[wait-on](https://github.com/jeffbski/wait-on)|v6.0.0|N/A|N/A |MIT|N/A|
-|[watch](https://github.com/mikeal/watch)|v1.0.0|N/A|N/A |Apache-2.0|N/A|
-|[wd](https://github.com/admc/wd)|v0.2.21|N/A|N/A |Apache-2.0|N/A|
-|[webpack-cli](https://github.com/webpack/webpack-cli)|v4.0.0|N/A|N/A |MIT|N/A|
-|[webpack-dev-server](https://github.com/webpack/webpack-dev-server)|v3.1.14|N/A|N/A |MIT|N/A|
-|[which](https://github.com/isaacs/node-which)|v1.3.1|N/A|N/A |ISC|N/A|
-|[word-wrap](https://github.com/jonschlinkert/word-wrap)|v1.2.3|N/A|N/A |MIT|[CVE-2023-26115](https://github.com/advisories/GHSA-j8xg-fqg3-53r7) (Moderate)|
-|[write](https://github.com/jonschlinkert/write)|v1.0.3|N/A|N/A |MIT|N/A|
-|[write-file-atomic](https://github.com/npm/write-file-atomic)|v2.4.3|N/A|N/A |ISC|N/A|
-|[ws](https://github.com/websockets/ws)|v5.2.2|N/A|N/A |MIT|[CVE-2021-32640](https://github.com/advisories/GHSA-6fc8-4gx4-v693) (Moderate)|
-|[xo](https://github.com/xojs/xo)|v0.25.3|N/A|N/A |MIT|N/A|
+|[@babel/cli](https://www.npmjs.com/@babel/cli)|v7.5.5|N/A|N/A |MIT|N/A|
+|[@babel/code-frame](https://www.npmjs.com/@babel/code-frame)|v7.5.5|N/A|N/A |MIT|N/A|
+|[@babel/core](https://www.npmjs.com/@babel/core)|v7.7.4|N/A|N/A |MIT|N/A|
+|[@babel/generator](https://www.npmjs.com/@babel/generator)|v7.6.0|N/A|N/A |MIT|N/A|
+|[@babel/helper-module-imports](https://www.npmjs.com/@babel/helper-module-imports)|v7.18.6|N/A|N/A |MIT|N/A|
+|[@babel/helper-plugin-utils](https://www.npmjs.com/@babel/helper-plugin-utils)|v7.0.0|N/A|N/A |MIT|N/A|
+|[@babel/node](https://www.npmjs.com/@babel/node)|v7.17.10|N/A|N/A |MIT|N/A|
+|[@babel/parser](https://www.npmjs.com/@babel/parser)|v7.6.0|N/A|N/A |MIT|N/A|
+|[@babel/plugin-transform-flow-strip-types](https://www.npmjs.com/@babel/plugin-transform-flow-strip-types)|v7.18.6|N/A|N/A |MIT|N/A|
+|[@babel/plugin-transform-modules-commonjs](https://www.npmjs.com/@babel/plugin-transform-modules-commonjs)|v7.5.0|N/A|N/A |MIT|N/A|
+|[@babel/polyfill](https://www.npmjs.com/@babel/polyfill)|v7.0.0|N/A|N/A |MIT|N/A|
+|[@babel/preset-env](https://www.npmjs.com/@babel/preset-env)|v7.2.3|N/A|N/A |MIT|N/A|
+|[@babel/preset-typescript](https://www.npmjs.com/@babel/preset-typescript)|v7.13.0|N/A|N/A |MIT|N/A|
+|[@babel/register](https://www.npmjs.com/@babel/register)|v7.0.0|N/A|N/A |MIT|N/A|
+|[@babel/template](https://www.npmjs.com/@babel/template)|v7.6.0|N/A|N/A |MIT|N/A|
+|[@babel/traverse](https://www.npmjs.com/@babel/traverse)|v7.6.0|N/A|N/A |MIT|[CVE-2023-45133](https://github.com/advisories/GHSA-67hx-6x53-jw92) (Critical)|
+|[@babel/types](https://www.npmjs.com/@babel/types)|v7.6.1|N/A|N/A |MIT|N/A|
+|[@commitlint/cli](https://www.npmjs.com/@commitlint/cli)|v8.1.0|N/A|N/A |MIT|N/A|
+|[@commitlint/config-conventional](https://www.npmjs.com/@commitlint/config-conventional)|v8.1.0|N/A|N/A |MIT|N/A|
+|[@hapi/code](https://www.npmjs.com/@hapi/code)|v8.0.1|N/A|N/A |BSD-3-Clause|N/A|
+|[@hapi/lab](https://www.npmjs.com/@hapi/lab)|v24.1.0|N/A|N/A |BSD-3-Clause|N/A|
+|[@rollup/plugin-node-resolve](https://www.npmjs.com/@rollup/plugin-node-resolve)|v13.3.0|N/A|N/A |MIT|N/A|
+|[@semantic-release/changelog](https://www.npmjs.com/@semantic-release/changelog)|v6.0.1|N/A|N/A |MIT|N/A|
+|[@semantic-release/git](https://www.npmjs.com/@semantic-release/git)|v10.0.1|N/A|N/A |MIT|N/A|
+|[@types/chai](https://www.npmjs.com/@types/chai)|v4.1.7|N/A|N/A |MIT|N/A|
+|[@types/chalk](https://www.npmjs.com/@types/chalk)|v2.0.0|N/A|N/A |MIT|N/A|
+|[@types/d3](https://www.npmjs.com/@types/d3)|v5.7.2|N/A|N/A |MIT|N/A|
+|[@types/debug](https://www.npmjs.com/@types/debug)|v4.1.7|N/A|N/A |MIT|N/A|
+|[@types/eslint](https://www.npmjs.com/@types/eslint)|v4.16.2|N/A|N/A |MIT|N/A|
+|[@types/events](https://www.npmjs.com/@types/events)|v3.0.0|N/A|N/A |MIT|N/A|
+|[@types/jest](https://www.npmjs.com/@types/jest)|v27.0.0|N/A|N/A |MIT|N/A|
+|[@types/jsdom](https://www.npmjs.com/@types/jsdom)|v12.2.4|N/A|N/A |MIT|N/A|
+|[@types/mocha](https://www.npmjs.com/@types/mocha)|v5.2.7|N/A|N/A |MIT|N/A|
+|[@types/node](https://www.npmjs.com/@types/node)|v11.11.4|N/A|N/A |MIT|N/A|
+|[@types/semver](https://www.npmjs.com/@types/semver)|v7.1.0|N/A|N/A |MIT|N/A|
+|[@types/sinon](https://www.npmjs.com/@types/sinon)|v10.0.6|N/A|N/A |MIT|N/A|
+|[@types/sinon-chai](https://www.npmjs.com/@types/sinon-chai)|v3.2.7|N/A|N/A |MIT|N/A|
+|[@types/ws](https://www.npmjs.com/@types/ws)|v6.0.3|N/A|N/A |MIT|N/A|
+|[@typescript-eslint/eslint-plugin](https://www.npmjs.com/@typescript-eslint/eslint-plugin)|v5.0.0|N/A|N/A |MIT|N/A|
+|[@typescript-eslint/parser](https://www.npmjs.com/@typescript-eslint/parser)|v5.0.0|N/A|N/A |BSD-2-Clause|N/A|
+|[JSONStream](https://www.npmjs.com/JSONStream)|v1.3.5|N/A|N/A |MIT,Apache-2.0|N/A|
+|[abbrev](https://www.npmjs.com/abbrev)|v1.1.1|N/A|N/A |ISC|N/A|
+|[acorn](https://www.npmjs.com/acorn)|v7.1.1|N/A|N/A |MIT|N/A|
+|[ajv](https://www.npmjs.com/ajv)|v6.10.2|N/A|N/A |MIT|[CVE-2020-15366](https://github.com/advisories/GHSA-v88g-cgmw-v5xw) (Moderate)|
+|[ansi](https://www.npmjs.com/ansi)|v0.3.1|N/A|N/A |MIT|N/A|
+|[ansi-regex](https://www.npmjs.com/ansi-regex)|v3.0.0|N/A|N/A |MIT|[CVE-2021-3807](https://github.com/advisories/GHSA-93q8-gq69-wqmw) (High)|
+|[ansi-styles](https://www.npmjs.com/ansi-styles)|v3.2.1|N/A|N/A |MIT|N/A|
+|[archy](https://www.npmjs.com/archy)|v1.0.0|N/A|N/A |MIT|N/A|
+|[argparse](https://www.npmjs.com/argparse)|v1.0.10|N/A|N/A |MIT|N/A|
+|[assert](https://www.npmjs.com/assert)|v1.4.0|N/A|N/A |MIT|N/A|
+|[async](https://www.npmjs.com/async)|v3.2.3|N/A|N/A |MIT|N/A|
+|[auto-changelog](https://www.npmjs.com/auto-changelog)|v2.4.0|N/A|N/A |MIT|N/A|
+|[autod](https://www.npmjs.com/autod)|v3.0.1|N/A|N/A |MIT|N/A|
+|[ava](https://www.npmjs.com/ava)|v2.4.0|N/A|N/A |MIT|N/A|
+|[babel-cli](https://www.npmjs.com/babel-cli)|v6.26.0|N/A|N/A |MIT|N/A|
+|[babel-core](https://www.npmjs.com/babel-core)|v6.26.3|N/A|N/A |MIT|N/A|
+|[babel-eslint](https://www.npmjs.com/babel-eslint)|v10.0.1|N/A|N/A |MIT|N/A|
+|[babel-jest](https://www.npmjs.com/babel-jest)|v24.9.0|N/A|N/A |MIT|N/A|
+|[babel-loader](https://www.npmjs.com/babel-loader)|v8.0.5|N/A|N/A |MIT|N/A|
+|[babel-plugin-add-module-exports](https://www.npmjs.com/babel-plugin-add-module-exports)|v0.2.1|N/A|N/A |MIT|N/A|
+|[babel-plugin-dynamic-import-node](https://www.npmjs.com/babel-plugin-dynamic-import-node)|v2.3.3|N/A|N/A |MIT|N/A|
+|[babel-plugin-external-helpers](https://www.npmjs.com/babel-plugin-external-helpers)|v6.22.0|N/A|N/A |MIT|N/A|
+|[babel-plugin-istanbul](https://www.npmjs.com/babel-plugin-istanbul)|v6.1.1|N/A|N/A |BSD-3-Clause|N/A|
+|[babel-polyfill](https://www.npmjs.com/babel-polyfill)|v6.23.0|N/A|N/A |MIT|N/A|
+|[babel-preset-env](https://www.npmjs.com/babel-preset-env)|v1.6.1|N/A|N/A |MIT|N/A|
+|[babel-preset-es2015](https://www.npmjs.com/babel-preset-es2015)|v6.3.13|N/A|N/A |MIT|N/A|
+|[babel-preset-latest](https://www.npmjs.com/babel-preset-latest)|v6.24.1|N/A|N/A |MIT|N/A|
+|[babel-register](https://www.npmjs.com/babel-register)|v6.26.0|N/A|N/A |MIT|N/A|
+|[balanced-match](https://www.npmjs.com/balanced-match)|v1.0.0|N/A|N/A |MIT|N/A|
+|[benchmark](https://www.npmjs.com/benchmark)|v2.1.4|N/A|N/A |MIT|N/A|
+|[bindings](https://www.npmjs.com/bindings)|v1.5.0|N/A|N/A |MIT|N/A|
+|[bl](https://www.npmjs.com/bl)|v2.0.0|N/A|N/A |MIT|[CVE-2020-8244](https://github.com/advisories/GHSA-pp7h-53gx-mx7r) (Moderate)|
+|[bluebird](https://www.npmjs.com/bluebird)|v3.5.3|N/A|N/A |MIT|N/A|
+|[brace-expansion](https://www.npmjs.com/brace-expansion)|v1.1.11|N/A|N/A |MIT|N/A|
+|[brfs](https://www.npmjs.com/brfs)|v2.0.1|N/A|N/A |MIT|N/A|
+|[browserslist](https://www.npmjs.com/browserslist)|v4.20.2|N/A|N/A |MIT|N/A|
+|[busboy](https://www.npmjs.com/busboy)|v1.6.0|N/A|N/A |MIT|N/A|
+|[camelcase](https://www.npmjs.com/camelcase)|v5.3.1|N/A|N/A |MIT|N/A|
+|[caniuse-lite](https://www.npmjs.com/caniuse-lite)|v1.0.30001366|N/A|N/A |CC-BY-4.0|N/A|
+|[chai-as-promised](https://www.npmjs.com/chai-as-promised)|v7.1.1|N/A|N/A |WTFPL|N/A|
+|[chai-string](https://www.npmjs.com/chai-string)|v1.5.0|N/A|N/A |MIT|N/A|
+|[cheerio](https://www.npmjs.com/cheerio)|v0.22.0|N/A|N/A |MIT|N/A|
+|[circular-json](https://www.npmjs.com/circular-json)|v0.5.9|N/A|N/A |MIT|N/A|
+|[clang-format](https://www.npmjs.com/clang-format)|v1.8.0|N/A|N/A |Apache-2.0|N/A|
+|[cli-color](https://www.npmjs.com/cli-color)|v0.2.3|N/A|N/A |ISC|N/A|
+|[cli-table](https://www.npmjs.com/cli-table)|v0.3.1|N/A|N/A |MIT|N/A|
+|[clone](https://www.npmjs.com/clone)|v1.0.2|N/A|N/A |MIT|N/A|
+|[coffee-script](https://www.npmjs.com/coffee-script)|v1.6.3|N/A|N/A |MIT|N/A|
+|[color-convert](https://www.npmjs.com/color-convert)|v1.9.3|N/A|N/A |MIT|N/A|
+|[colors](https://www.npmjs.com/colors)|v1.3.3|N/A|N/A |MIT|N/A|
+|[columnify](https://www.npmjs.com/columnify)|v1.6.0|N/A|N/A |MIT|N/A|
+|[commander](https://www.npmjs.com/commander)|v2.20.0|N/A|N/A |MIT|N/A|
+|[common-tags](https://www.npmjs.com/common-tags)|v1.8.0|N/A|N/A |MIT|N/A|
+|[concat-stream](https://www.npmjs.com/concat-stream)|v2.0.0|N/A|N/A |MIT|N/A|
+|[concurrently](https://www.npmjs.com/concurrently)|v7.1.0|N/A|N/A |MIT|N/A|
+|[conventional-github-releaser](https://www.npmjs.com/conventional-github-releaser)|N/A|N/A|N/A |MIT|N/A|
+|[convert-source-map](https://www.npmjs.com/convert-source-map)|v1.6.0|N/A|N/A |MIT|N/A|
+|[core-js](https://www.npmjs.com/core-js)|v2.6.5|N/A|N/A |MIT|N/A|
+|[core-util-is](https://www.npmjs.com/core-util-is)|v1.0.2|N/A|N/A |MIT|N/A|
+|[covert](https://www.npmjs.com/covert)|v1.1.0|N/A|N/A |MIT|N/A|
+|[cpy-cli](https://www.npmjs.com/cpy-cli)|v2.0.0|N/A|N/A |MIT|N/A|
+|[cross-env](https://www.npmjs.com/cross-env)|v6.0.3|N/A|N/A |MIT|N/A|
+|[cross-spawn](https://www.npmjs.com/cross-spawn)|v4.0.2|N/A|N/A |MIT|N/A|
+|[d3](https://www.npmjs.com/d3)|v5.7.0|N/A|N/A |ISC|N/A|
+|[dateformat](https://www.npmjs.com/dateformat)|v1.0.11|N/A|N/A |MIT|N/A|
+|[debug](https://www.npmjs.com/debug)|v4.1.1|N/A|N/A |MIT|[CVE-2017-16137](https://github.com/advisories/GHSA-gxpj-cx7g-858c) (Moderate)|
+|[decamelize](https://www.npmjs.com/decamelize)|v1.2.0|N/A|N/A |MIT|N/A|
+|[dedent](https://www.npmjs.com/dedent)|v0.7.0|N/A|N/A |MIT|N/A|
+|[defaults](https://www.npmjs.com/defaults)|v1.0.3|N/A|N/A |MIT|N/A|
+|[del](https://www.npmjs.com/del)|v6.0.0|N/A|N/A |MIT|N/A|
+|[del-cli](https://www.npmjs.com/del-cli)|v3.0.0|N/A|N/A |MIT|N/A|
+|[delay](https://www.npmjs.com/delay)|v4.1.0|N/A|N/A |MIT|N/A|
+|[depd](https://www.npmjs.com/depd)|v2.0.0|N/A|N/A |MIT|N/A|
+|[diff](https://www.npmjs.com/diff)|v4.0.1|N/A|N/A |BSD-3-Clause|N/A|
+|[doctrine](https://www.npmjs.com/doctrine)|v3.0.0|N/A|N/A |Apache-2.0|N/A|
+|[dot](https://www.npmjs.com/dot)|v1.0.3|N/A|N/A |MIT|[CVE-2020-8141](https://github.com/advisories/GHSA-297x-8xj4-vcxv) (High)<br/>[](https://github.com/advisories/GHSA-4859-gpc7-4j66) (Moderate)|
+|[dot-prop](https://www.npmjs.com/dot-prop)|v4.2.0|N/A|N/A |MIT|[CVE-2020-8116](https://github.com/advisories/GHSA-ff7x-qrg7-qggm) (High)|
+|[dts-bundle](https://www.npmjs.com/dts-bundle)|v0.7.3|N/A|N/A |MIT|N/A|
+|[dtslint](https://www.npmjs.com/dtslint)|v4.0.0|N/A|N/A |MIT|N/A|
+|[egg-bin](https://www.npmjs.com/egg-bin)|v4.9.0|N/A|N/A |MIT|N/A|
+|[egg-ci](https://www.npmjs.com/egg-ci)|v1.10.0|N/A|N/A |MIT|N/A|
+|[ejs](https://www.npmjs.com/ejs)|v3.0.2|N/A|N/A |Apache-2.0|[CVE-2022-29078](https://github.com/advisories/GHSA-phwq-j96m-2c2q) (Critical)|
+|[end-of-stream](https://www.npmjs.com/end-of-stream)|v1.4.0|N/A|N/A |MIT|N/A|
+|[escape-string-regexp](https://www.npmjs.com/escape-string-regexp)|v1.0.5|N/A|N/A |MIT|N/A|
+|[eslint-config-airbnb](https://www.npmjs.com/eslint-config-airbnb)|v17.1.0|N/A|N/A |MIT|N/A|
+|[eslint-config-airbnb-base](https://www.npmjs.com/eslint-config-airbnb-base)|v14.2.0|N/A|N/A |MIT|N/A|
+|[eslint-config-egg](https://www.npmjs.com/eslint-config-egg)|v7.1.0|N/A|N/A |MIT|N/A|
+|[eslint-config-eslint](https://www.npmjs.com/eslint-config-eslint)|v5.0.1|N/A|N/A |MIT|N/A|
+|[eslint-config-google](https://www.npmjs.com/eslint-config-google)|v0.11.0|N/A|N/A |Apache-2.0|N/A|
+|[eslint-config-prettier](https://www.npmjs.com/eslint-config-prettier)|v4.1.0|N/A|N/A |MIT|N/A|
+|[eslint-config-standard](https://www.npmjs.com/eslint-config-standard)|v7.1.0|N/A|N/A |MIT|N/A|
+|[eslint-import-resolver-typescript](https://www.npmjs.com/eslint-import-resolver-typescript)|v1.1.1|N/A|N/A |ISC|N/A|
+|[eslint-plugin-compat](https://www.npmjs.com/eslint-plugin-compat)|v4.0.2|N/A|N/A |MIT|N/A|
+|[eslint-plugin-eslint-comments](https://www.npmjs.com/eslint-plugin-eslint-comments)|v3.2.0|N/A|N/A |MIT|N/A|
+|[eslint-plugin-html](https://www.npmjs.com/eslint-plugin-html)|v6.2.0|N/A|N/A |ISC|N/A|
+|[eslint-plugin-import](https://www.npmjs.com/eslint-plugin-import)|v2.16.0|N/A|N/A |MIT|N/A|
+|[eslint-plugin-jsdoc](https://www.npmjs.com/eslint-plugin-jsdoc)|v39.2.9|N/A|N/A |BSD-3-Clause|N/A|
+|[eslint-plugin-jsx-a11y](https://www.npmjs.com/eslint-plugin-jsx-a11y)|v6.2.1|N/A|N/A |MIT|N/A|
+|[eslint-plugin-markdown](https://www.npmjs.com/eslint-plugin-markdown)|v1.0.0|N/A|N/A |MIT|N/A|
+|[eslint-plugin-mocha](https://www.npmjs.com/eslint-plugin-mocha)|v8.0.0|N/A|N/A |MIT|N/A|
+|[eslint-plugin-no-only-tests](https://www.npmjs.com/eslint-plugin-no-only-tests)|v2.6.0|N/A|N/A |MIT|N/A|
+|[eslint-plugin-no-use-extend-native](https://www.npmjs.com/eslint-plugin-no-use-extend-native)|v0.5.0|N/A|N/A |MIT|N/A|
+|[eslint-plugin-node](https://www.npmjs.com/eslint-plugin-node)|v11.1.0|N/A|N/A |MIT|N/A|
+|[eslint-plugin-prettier](https://www.npmjs.com/eslint-plugin-prettier)|v3.0.0|N/A|N/A |MIT|N/A|
+|[eslint-plugin-promise](https://www.npmjs.com/eslint-plugin-promise)|v3.6.0|N/A|N/A |ISC|N/A|
+|[eslint-plugin-react](https://www.npmjs.com/eslint-plugin-react)|v7.12.4|N/A|N/A |MIT|N/A|
+|[eslint-plugin-react-hooks](https://www.npmjs.com/eslint-plugin-react-hooks)|v4.0.0|N/A|N/A |MIT|N/A|
+|[eslint-plugin-security](https://www.npmjs.com/eslint-plugin-security)|v1.0.0|N/A|N/A |Apache-2.0|N/A|
+|[eslint-plugin-standard](https://www.npmjs.com/eslint-plugin-standard)|v3.0.1|N/A|N/A |MIT|N/A|
+|[eslint-plugin-unicorn](https://www.npmjs.com/eslint-plugin-unicorn)|v42.0.0|N/A|N/A |MIT|N/A|
+|[esm](https://www.npmjs.com/esm)|v3.2.25|N/A|N/A |MIT|N/A|
+|[espree](https://www.npmjs.com/espree)|v6.2.1|N/A|N/A |BSD-2-Clause|N/A|
+|[esprima](https://www.npmjs.com/esprima)|v4.0.1|N/A|N/A |BSD-2-Clause|N/A|
+|[esprima-fb](https://www.npmjs.com/esprima-fb)|v8001.2001.0|N/A|N/A |BSD-2-Clause|N/A|
+|[estraverse](https://www.npmjs.com/estraverse)|v5.0.0|N/A|N/A |BSD-2-Clause|N/A|
+|[esutils](https://www.npmjs.com/esutils)|v2.0.3|N/A|N/A |BSD-2-Clause|N/A|
+|[events](https://www.npmjs.com/events)|v1.0.1|N/A|N/A |MIT|N/A|
+|[execa](https://www.npmjs.com/execa)|v4.0.0|N/A|N/A |MIT|N/A|
+|[expect](https://www.npmjs.com/expect)|v22.4.0|N/A|N/A |MIT|N/A|
+|[expect.js](https://www.npmjs.com/expect.js)|v0.3.1|N/A|N/A |MIT|N/A|
+|[fast-deep-equal](https://www.npmjs.com/fast-deep-equal)|v2.0.1|N/A|N/A |MIT|N/A|
+|[fast-glob](https://www.npmjs.com/fast-glob)|v2.2.3|N/A|N/A |MIT|N/A|
+|[flow-bin](https://www.npmjs.com/flow-bin)|v0.68.0|N/A|N/A |MIT|N/A|
+|[form-data](https://www.npmjs.com/form-data)|v2.3.3|N/A|N/A |MIT|N/A|
+|[function-bind](https://www.npmjs.com/function-bind)|v1.1.1|N/A|N/A |MIT|N/A|
+|[gh-pages](https://www.npmjs.com/gh-pages)|v3.1.0|N/A|N/A |MIT|N/A|
+|[glob](https://www.npmjs.com/glob)|v7.1.4|N/A|N/A |ISC|N/A|
+|[got](https://www.npmjs.com/got)|v11.8.3|N/A|N/A |MIT|[CVE-2022-33987](https://github.com/advisories/GHSA-pfrx-2q88-qq97) (Moderate)|
+|[graceful-fs](https://www.npmjs.com/graceful-fs)|v4.2.2|N/A|N/A |ISC|N/A|
+|[gray-matter](https://www.npmjs.com/gray-matter)|v4.0.3|N/A|N/A |MIT|N/A|
+|[grunt-babel](https://www.npmjs.com/grunt-babel)|v8.0.0|N/A|N/A |MIT|N/A|
+|[grunt-cli](https://www.npmjs.com/grunt-cli)|v1.3.2|N/A|N/A |MIT|N/A|
+|[grunt-contrib-clean](https://www.npmjs.com/grunt-contrib-clean)|v2.0.0|N/A|N/A |MIT|N/A|
+|[grunt-contrib-copy](https://www.npmjs.com/grunt-contrib-copy)|v1.0.0|N/A|N/A |MIT|N/A|
+|[grunt-contrib-jshint](https://www.npmjs.com/grunt-contrib-jshint)|v0.4.3|N/A|N/A |MIT|N/A|
+|[grunt-contrib-uglify](https://www.npmjs.com/grunt-contrib-uglify)|v5.0.0|N/A|N/A |MIT|N/A|
+|[grunt-contrib-watch](https://www.npmjs.com/grunt-contrib-watch)|v1.1.0|N/A|N/A |MIT|N/A|
+|[grunt-eslint](https://www.npmjs.com/grunt-eslint)|v23.0.0|N/A|N/A |MIT|N/A|
+|[grunt-exec](https://www.npmjs.com/grunt-exec)|v3.0.0|N/A|N/A |MIT|N/A|
+|[grunt-karma](https://www.npmjs.com/grunt-karma)|v4.0.0|N/A|N/A |MIT|[CVE-2022-37602](https://github.com/advisories/GHSA-hcj4-xf6x-63wj) (Critical)|
+|[grunt-mocha-istanbul](https://www.npmjs.com/grunt-mocha-istanbul)|v5.0.2|N/A|N/A |MIT|N/A|
+|[grunt-mocha-test](https://www.npmjs.com/grunt-mocha-test)|v0.13.3|N/A|N/A |MIT|N/A|
+|[grunt-webpack](https://www.npmjs.com/grunt-webpack)|v3.1.3|N/A|N/A |MIT|N/A|
+|[gulp-bump](https://www.npmjs.com/gulp-bump)|v0.2.2|N/A|N/A |MIT|N/A|
+|[gulp-eslint](https://www.npmjs.com/gulp-eslint)|v4.0.0|N/A|N/A |MIT|N/A|
+|[gulp-filter](https://www.npmjs.com/gulp-filter)|v2.0.0|N/A|N/A |MIT|N/A|
+|[gulp-format-md](https://www.npmjs.com/gulp-format-md)|v0.1.10|N/A|N/A |MIT|N/A|
+|[gulp-git](https://www.npmjs.com/gulp-git)|v1.0.1|N/A|N/A |MIT|N/A|
+|[gulp-mocha](https://www.npmjs.com/gulp-mocha)|v4.3.1|N/A|N/A |MIT|N/A|
+|[gulp-tag-version](https://www.npmjs.com/gulp-tag-version)|v1.3.0|N/A|N/A |BSD-2-Clause|N/A|
+|[gzip-size-cli](https://www.npmjs.com/gzip-size-cli)|v4.0.0|N/A|N/A |MIT|N/A|
+|[has](https://www.npmjs.com/has)|v1.0.3|N/A|N/A |MIT|N/A|
+|[highlight.js](https://www.npmjs.com/highlight.js)|v11.6.0|N/A|N/A |BSD-3-Clause|N/A|
+|[hosted-git-info](https://www.npmjs.com/hosted-git-info)|v2.8.4|N/A|N/A |ISC|[CVE-2021-23362](https://github.com/advisories/GHSA-43f8-2h32-f4cj) (Moderate)|
+|[https-proxy-agent](https://www.npmjs.com/https-proxy-agent)|v5.0.0|N/A|N/A |MIT|N/A|
+|[hyperquest](https://www.npmjs.com/hyperquest)|v2.1.3|N/A|N/A |MIT|N/A|
+|[iconv](https://www.npmjs.com/iconv)|v2.3.5|N/A|N/A |ISC|N/A|
+|[iconv-lite](https://www.npmjs.com/iconv-lite)|v0.4.24|N/A|N/A |MIT|N/A|
+|[ignore](https://www.npmjs.com/ignore)|v4.0.6|N/A|N/A |MIT|N/A|
+|[indent-string](https://www.npmjs.com/indent-string)|v4.0.0|N/A|N/A |MIT|N/A|
+|[inherits](https://www.npmjs.com/inherits)|v2.0.4|N/A|N/A |ISC|N/A|
+|[ini](https://www.npmjs.com/ini)|v3.0.0|N/A|N/A |ISC|N/A|
+|[ip](https://www.npmjs.com/ip)|v1.1.5|N/A|N/A |MIT|N/A|
+|[is-glob](https://www.npmjs.com/is-glob)|v4.0.1|N/A|N/A |MIT|N/A|
+|[istanbul](https://www.npmjs.com/istanbul)|v0.4.5|N/A|N/A |BSD-3-Clause|N/A|
+|[jasmine-spec-reporter](https://www.npmjs.com/jasmine-spec-reporter)|v4.1.1|N/A|N/A |Apache-2.0|N/A|
+|[jest-config](https://www.npmjs.com/jest-config)|v27.5.1|N/A|N/A |MIT|N/A|
+|[js-beautify](https://www.npmjs.com/js-beautify)|v1.7.3|N/A|N/A |MIT|N/A|
+|[js-yaml](https://www.npmjs.com/js-yaml)|v3.13.1|N/A|N/A |MIT|N/A|
+|[jscs](https://www.npmjs.com/jscs)|v3.0.7|N/A|N/A |MIT|N/A|
+|[jsdoc](https://www.npmjs.com/jsdoc)|v3.3.0|N/A|N/A |Apache-2.0|N/A|
+|[jsesc](https://www.npmjs.com/jsesc)|v2.5.2|N/A|N/A |MIT|N/A|
+|[json-stable-stringify](https://www.npmjs.com/json-stable-stringify)|N/A|N/A|N/A |MIT|N/A|
+|[json5](https://www.npmjs.com/json5)|v0.5.1|N/A|N/A |MIT|[CVE-2022-46175](https://github.com/advisories/GHSA-9c47-m6qq-7p4h) (High)|
+|[jsondiffpatch](https://www.npmjs.com/jsondiffpatch)|v0.3.5|N/A|N/A |MIT|N/A|
+|[karma-browserify](https://www.npmjs.com/karma-browserify)|v6.0.0|N/A|N/A |MIT|N/A|
+|[karma-chrome-launcher](https://www.npmjs.com/karma-chrome-launcher)|v2.2.0|N/A|N/A |MIT|N/A|
+|[karma-mocha](https://www.npmjs.com/karma-mocha)|v1.3.0|N/A|N/A |MIT|N/A|
+|[karma-mocha-reporter](https://www.npmjs.com/karma-mocha-reporter)|v2.0.0|N/A|N/A |MIT|N/A|
+|[karma-sauce-launcher](https://www.npmjs.com/karma-sauce-launcher)|v4.1.5|N/A|N/A |MIT|N/A|
+|[karma-sourcemap-loader](https://www.npmjs.com/karma-sourcemap-loader)|v0.3.6|N/A|N/A |MIT|N/A|
+|[karma-webpack](https://www.npmjs.com/karma-webpack)|v4.0.2|N/A|N/A |MIT|N/A|
+|[knox](https://www.npmjs.com/knox)|v0.8.10|N/A|N/A |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v5.0.0|N/A|N/A |MIT|N/A|
+|[load-grunt-tasks](https://www.npmjs.com/load-grunt-tasks)|v0.6.0|N/A|N/A |MIT|N/A|
+|[lodash.clonedeep](https://www.npmjs.com/lodash.clonedeep)|v4.5.0|N/A|N/A |MIT|N/A|
+|[lodash.defaultsdeep](https://www.npmjs.com/lodash.defaultsdeep)|v4.6.1|N/A|N/A |MIT|N/A|
+|[lodash.merge](https://www.npmjs.com/lodash.merge)|v4.6.2|N/A|N/A |MIT|N/A|
+|[lolex](https://www.npmjs.com/lolex)|v2.1.2|N/A|N/A |BSD-3-Clause|N/A|
+|[lru-cache](https://www.npmjs.com/lru-cache)|v4.1.5|N/A|N/A |ISC|N/A|
+|[markdownlint-cli](https://www.npmjs.com/markdownlint-cli)|v0.31.1|N/A|N/A |MIT|N/A|
+|[marked](https://www.npmjs.com/marked)|v4.0.8|N/A|N/A |MIT|[CVE-2022-21680](https://github.com/advisories/GHSA-rrrm-qjm4-v8hf) (High)<br/>[CVE-2022-21681](https://github.com/advisories/GHSA-5v2h-r2cx-5xgj) (High)|
+|[matcha](https://www.npmjs.com/matcha)|v0.7.0|N/A|N/A |MIT|N/A|
+|[minimatch](https://www.npmjs.com/minimatch)|v3.0.4|N/A|N/A |ISC|[CVE-2022-3517](https://github.com/advisories/GHSA-f8q6-p94x-37v3) (High)|
+|[minimist](https://www.npmjs.com/minimist)|v1.2.0|N/A|N/A |MIT|[CVE-2021-44906](https://github.com/advisories/GHSA-xvch-5gv4-984h) (Critical)<br/>[](https://github.com/advisories/GHSA-7fhm-mqm4-2wp7) (Moderate)<br/>[CVE-2020-7598](https://github.com/advisories/GHSA-vh95-rmgr-6w4m) (Moderate)|
+|[mkdirp](https://www.npmjs.com/mkdirp)|v0.5.1|N/A|N/A |MIT|N/A|
+|[mocha-junit-reporter](https://www.npmjs.com/mocha-junit-reporter)|v2.0.0|N/A|N/A |MIT|N/A|
+|[mocha-lcov-reporter](https://www.npmjs.com/mocha-lcov-reporter)|v1.2.0|N/A|N/A |BSD-2-Clause|N/A|
+|[ms](https://www.npmjs.com/ms)|v2.1.2|N/A|N/A |MIT|N/A|
+|[nan](https://www.npmjs.com/nan)|v2.14.2|N/A|N/A |MIT|N/A|
+|[natural](https://www.npmjs.com/natural)|v2.1.5|N/A|N/A |MIT|N/A|
+|[nock](https://www.npmjs.com/nock)|v13.0.4|N/A|N/A |MIT|N/A|
+|[node-gyp](https://www.npmjs.com/node-gyp)|v9.0.0|N/A|N/A |MIT|N/A|
+|[nodeunit](https://www.npmjs.com/nodeunit)|v0.9.0|N/A|N/A |MIT|N/A|
+|[nopt](https://www.npmjs.com/nopt)|v5.0.0|N/A|N/A |ISC|N/A|
+|[normalize-package-data](https://www.npmjs.com/normalize-package-data)|v2.5.0|N/A|N/A |BSD-2-Clause|N/A|
+|[npm-check-updates](https://www.npmjs.com/npm-check-updates)|N/A|N/A|N/A |Apache-2.0|N/A|
+|[npm-package-arg](https://www.npmjs.com/npm-package-arg)|v9.0.0|N/A|N/A |ISC|N/A|
+|[npm-run-all](https://www.npmjs.com/npm-run-all)|v4.1.5|N/A|N/A |MIT|N/A|
+|[npmlog](https://www.npmjs.com/npmlog)|v6.0.2|N/A|N/A |ISC|N/A|
+|[nyc](https://www.npmjs.com/nyc)|v14.1.1|N/A|N/A |ISC|N/A|
+|[once](https://www.npmjs.com/once)|v1.4.0|N/A|N/A |ISC|N/A|
+|[opener](https://www.npmjs.com/opener)|v1.5.1|N/A|N/A |WTFPL,MIT|N/A|
+|[p-map](https://www.npmjs.com/p-map)|v4.0.0|N/A|N/A |MIT|N/A|
+|[path-is-absolute](https://www.npmjs.com/path-is-absolute)|v1.0.1|N/A|N/A |MIT|N/A|
+|[pegjs](https://www.npmjs.com/pegjs)|v0.10.0|N/A|N/A |MIT|N/A|
+|[pkg](https://www.npmjs.com/pkg)|v4.3.4|N/A|N/A |MIT|N/A|
+|[prelude-ls](https://www.npmjs.com/prelude-ls)|v1.1.2|N/A|N/A |MIT|N/A|
+|[prettier-eslint-cli](https://www.npmjs.com/prettier-eslint-cli)|v4.7.1|N/A|N/A |MIT|N/A|
+|[prettier-standard](https://www.npmjs.com/prettier-standard)|v15.0.1|N/A|N/A |MIT|N/A|
+|[progress](https://www.npmjs.com/progress)|v2.0.0|N/A|N/A |MIT|N/A|
+|[protobufjs](https://www.npmjs.com/protobufjs)|v6.8.8|N/A|N/A |BSD-3-Clause|N/A|
+|[proxyquire](https://www.npmjs.com/proxyquire)|v2.1.3|N/A|N/A |MIT|N/A|
+|[pump](https://www.npmjs.com/pump)|v3.0.0|N/A|N/A |MIT|N/A|
+|[punycode](https://www.npmjs.com/punycode)|v2.1.1|N/A|N/A |MIT|N/A|
+|[puppeteer](https://www.npmjs.com/puppeteer)|v9.1.1|N/A|N/A |Apache-2.0|N/A|
+|[q](https://www.npmjs.com/q)|v2.0.3|N/A|N/A |MIT|N/A|
+|[q-io](https://www.npmjs.com/q-io)|v2.0.3|N/A|N/A |MIT|N/A|
+|[qrcode-terminal](https://www.npmjs.com/qrcode-terminal)|v0.12.0|N/A|N/A |Apache-2.0|N/A|
+|[raw-body](https://www.npmjs.com/raw-body)|v2.4.1|N/A|N/A |MIT|N/A|
+|[react-test-renderer](https://www.npmjs.com/react-test-renderer)|v16.12.0|N/A|N/A |MIT|N/A|
+|[read](https://www.npmjs.com/read)|v1.0.7|N/A|N/A |ISC|N/A|
+|[readable-stream](https://www.npmjs.com/readable-stream)|v2.3.6|N/A|N/A |MIT|N/A|
+|[recast](https://www.npmjs.com/recast)|v0.20.4|N/A|N/A |MIT|N/A|
+|[regenerator-runtime](https://www.npmjs.com/regenerator-runtime)|v0.13.3|N/A|N/A |MIT|N/A|
+|[remark-cli](https://www.npmjs.com/remark-cli)|v7.0.0|N/A|N/A |MIT|N/A|
+|[remark-parse](https://www.npmjs.com/remark-parse)|v10.0.1|N/A|N/A |MIT|N/A|
+|[remark-preset-wooorm](https://www.npmjs.com/remark-preset-wooorm)|v6.0.0|N/A|N/A |MIT|N/A|
+|[remark-stringify](https://www.npmjs.com/remark-stringify)|v10.0.2|N/A|N/A |MIT|N/A|
+|[replace](https://www.npmjs.com/replace)|v1.2.1|N/A|N/A |MIT|N/A|
+|[request](https://www.npmjs.com/request)|v2.88.0|N/A|N/A |Apache-2.0|[CVE-2023-28155](https://github.com/advisories/GHSA-p8p7-x288-28g6) (Moderate)|
+|[resolve-from](https://www.npmjs.com/resolve-from)|v4.0.0|N/A|N/A |MIT|N/A|
+|[retry](https://www.npmjs.com/retry)|v0.12.0|N/A|N/A |MIT|N/A|
+|[rimraf](https://www.npmjs.com/rimraf)|v2.7.1|N/A|N/A |ISC|N/A|
+|[rollup-plugin-babel](https://www.npmjs.com/rollup-plugin-babel)|v4.2.0|N/A|N/A |MIT|N/A|
+|[rollup-plugin-buble](https://www.npmjs.com/rollup-plugin-buble)|v0.19.6|N/A|N/A |MIT|N/A|
+|[rollup-plugin-cleanup](https://www.npmjs.com/rollup-plugin-cleanup)|v3.2.1|N/A|N/A |MIT|N/A|
+|[rollup-plugin-commonjs](https://www.npmjs.com/rollup-plugin-commonjs)|v9.2.1|N/A|N/A |MIT|N/A|
+|[rollup-plugin-node-resolve](https://www.npmjs.com/rollup-plugin-node-resolve)|v4.0.0|N/A|N/A |MIT|N/A|
+|[rollup-plugin-sourcemaps](https://www.npmjs.com/rollup-plugin-sourcemaps)|v0.4.2|N/A|N/A |MIT|N/A|
+|[rollup-plugin-terser](https://www.npmjs.com/rollup-plugin-terser)|v5.3.0|N/A|N/A |MIT|N/A|
+|[rollup-plugin-typescript2](https://www.npmjs.com/rollup-plugin-typescript2)|v0.20.1|N/A|N/A |MIT|N/A|
+|[safe-buffer](https://www.npmjs.com/safe-buffer)|v5.1.2|N/A|N/A |MIT|N/A|
+|[safe-publish-latest](https://www.npmjs.com/safe-publish-latest)|v2.0.0|N/A|N/A |MIT|N/A|
+|[semantic-release](https://www.npmjs.com/semantic-release)|v19.0.2|N/A|N/A |MIT|[CVE-2022-31051](https://github.com/advisories/GHSA-x2pg-mjhr-2m5x) (Moderate)|
+|[shelljs](https://www.npmjs.com/shelljs)|v0.8.3|N/A|N/A |BSD-3-Clause|[CVE-2022-0144](https://github.com/advisories/GHSA-4rq4-32rv-6wp6) (High)<br/>[](https://github.com/advisories/GHSA-64g7-mvw6-v9qj) (Moderate)|
+|[should](https://www.npmjs.com/should)|v5.0.1|N/A|N/A |MIT|N/A|
+|[sinon-chai](https://www.npmjs.com/sinon-chai)|v3.7.0|N/A|N/A |BSD-2-Clause,WTFPL|N/A|
+|[size-limit](https://www.npmjs.com/size-limit)|v7.0.8|N/A|N/A |MIT|N/A|
+|[slash](https://www.npmjs.com/slash)|v1.0.0|N/A|N/A |MIT|N/A|
+|[snazzy](https://www.npmjs.com/snazzy)|v9.0.0|N/A|N/A |MIT|N/A|
+|[source-map](https://www.npmjs.com/source-map)|v0.5.7|N/A|N/A |BSD-3-Clause|N/A|
+|[source-map-support](https://www.npmjs.com/source-map-support)|v0.5.13|N/A|N/A |MIT|N/A|
+|[standard](https://www.npmjs.com/standard)|v16.0.3|N/A|N/A |MIT|N/A|
+|[standard-version](https://www.npmjs.com/standard-version)|v9.3.2|N/A|N/A |ISC|N/A|
+|[string-width](https://www.npmjs.com/string-width)|v2.1.1|N/A|N/A |MIT|N/A|
+|[strip-ansi](https://www.npmjs.com/strip-ansi)|v4.0.0|N/A|N/A |MIT|N/A|
+|[strip-json-comments](https://www.npmjs.com/strip-json-comments)|v3.0.1|N/A|N/A |MIT|N/A|
+|[supports-color](https://www.npmjs.com/supports-color)|v6.1.0|N/A|N/A |MIT|N/A|
+|[table](https://www.npmjs.com/table)|v5.4.6|N/A|N/A |BSD-3-Clause|N/A|
+|[tap](https://www.npmjs.com/tap)|v14.6.4|N/A|N/A |ISC|N/A|
+|[tap-spec](https://www.npmjs.com/tap-spec)|v5.0.0|N/A|N/A |MIT|N/A|
+|[tape](https://www.npmjs.com/tape)|v0.1.1|N/A|N/A |MIT|N/A|
+|[tape-run](https://www.npmjs.com/tape-run)|v6.0.0|N/A|N/A |MIT|N/A|
+|[tar](https://www.npmjs.com/tar)|v6.0.1|N/A|N/A |ISC|[CVE-2021-32804](https://github.com/advisories/GHSA-3jfq-g458-7qm9) (High)<br/>[CVE-2021-37701](https://github.com/advisories/GHSA-9r2w-394v-53qc) (High)<br/>[CVE-2021-32803](https://github.com/advisories/GHSA-r628-mhmh-qjhw) (High)<br/>[CVE-2021-37713](https://github.com/advisories/GHSA-5955-9wpr-37jh) (High)<br/>[CVE-2021-37712](https://github.com/advisories/GHSA-qq89-hq3f-393p) (High)|
+|[tar-fs](https://www.npmjs.com/tar-fs)|v1.16.2|N/A|N/A |MIT|N/A|
+|[tar-stream](https://www.npmjs.com/tar-stream)|v1.6.2|N/A|N/A |MIT|N/A|
+|[temp](https://www.npmjs.com/temp)|v0.8.3|N/A|N/A |MIT|N/A|
+|[tempfile](https://www.npmjs.com/tempfile)|v3.0.0|N/A|N/A |MIT|N/A|
+|[tempy](https://www.npmjs.com/tempy)|v0.5.0|N/A|N/A |MIT|N/A|
+|[terser](https://www.npmjs.com/terser)|v4.1.4|N/A|N/A |BSD-2-Clause|[CVE-2022-25858](https://github.com/advisories/GHSA-4wf5-vphf-c2xc) (High)|
+|[terser-webpack-plugin](https://www.npmjs.com/terser-webpack-plugin)|v5.1.2|N/A|N/A |MIT|N/A|
+|[text-table](https://www.npmjs.com/text-table)|v0.2.0|N/A|N/A |MIT|N/A|
+|[through2](https://www.npmjs.com/through2)|v2.0.3|N/A|N/A |MIT|N/A|
+|[tinyify](https://www.npmjs.com/tinyify)|v2.0.0|N/A|N/A |Apache-2.0|N/A|
+|[tmp](https://www.npmjs.com/tmp)|v0.0.33|N/A|N/A |MIT|N/A|
+|[ts-jest](https://www.npmjs.com/ts-jest)|v27.0.5|N/A|N/A |MIT|N/A|
+|[ts-loader](https://www.npmjs.com/ts-loader)|v9.0.0|N/A|N/A |MIT|N/A|
+|[ts-node](https://www.npmjs.com/ts-node)|v8.4.1|N/A|N/A |MIT|N/A|
+|[tsd](https://www.npmjs.com/tsd)|v0.7.1|N/A|N/A |MIT|N/A|
+|[tslib](https://www.npmjs.com/tslib)|v1.11.1|N/A|N/A |0BSD|N/A|
+|[typedoc](https://www.npmjs.com/typedoc)|v0.22.10|N/A|N/A |Apache-2.0|N/A|
+|[uglify-js](https://www.npmjs.com/uglify-js)|v3.6.0|N/A|N/A |BSD-2-Clause|N/A|
+|[unified](https://www.npmjs.com/unified)|v10.1.2|N/A|N/A |MIT|N/A|
+|[unist-util-visit](https://www.npmjs.com/unist-util-visit)|v4.1.0|N/A|N/A |MIT|N/A|
+|[validate-npm-package-name](https://www.npmjs.com/validate-npm-package-name)|v4.0.0|N/A|N/A |ISC|N/A|
+|[wait-on](https://www.npmjs.com/wait-on)|v6.0.0|N/A|N/A |MIT|N/A|
+|[watch](https://www.npmjs.com/watch)|v1.0.0|N/A|N/A |Apache-2.0|N/A|
+|[wd](https://www.npmjs.com/wd)|v0.2.21|N/A|N/A |Apache-2.0|N/A|
+|[webpack-cli](https://www.npmjs.com/webpack-cli)|v4.0.0|N/A|N/A |MIT|N/A|
+|[webpack-dev-server](https://www.npmjs.com/webpack-dev-server)|v3.1.14|N/A|N/A |MIT|N/A|
+|[which](https://www.npmjs.com/which)|v1.3.1|N/A|N/A |ISC|N/A|
+|[word-wrap](https://www.npmjs.com/word-wrap)|v1.2.3|N/A|N/A |MIT|[CVE-2023-26115](https://github.com/advisories/GHSA-j8xg-fqg3-53r7) (Moderate)|
+|[write](https://www.npmjs.com/write)|v1.0.3|N/A|N/A |MIT|N/A|
+|[write-file-atomic](https://www.npmjs.com/write-file-atomic)|v2.4.3|N/A|N/A |ISC|N/A|
+|[ws](https://www.npmjs.com/ws)|v5.2.2|N/A|N/A |MIT|[CVE-2021-32640](https://github.com/advisories/GHSA-6fc8-4gx4-v693) (Moderate)|
+|[xo](https://www.npmjs.com/xo)|v0.25.3|N/A|N/A |MIT|N/A|
 
 
 ## <img width='24' height='24' src='https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg'/> PyPI (3)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[flake8](https://gitlab.com/pycqa/flake8)|N/A|N/A|N/A |MIT|N/A|
-|[gql](https://github.com/graphql-python/gql)|N/A|N/A|N/A |MIT|N/A|
-|[packaging](https://github.com/pypa/packaging)|v20.3|N/A|N/A |BSD-3-Clause,Apache-2.0|N/A|
+|[flake8](https://pypi.org/flake8)|N/A|N/A|N/A |MIT|N/A|
+|[gql](https://pypi.org/gql)|N/A|N/A|N/A |MIT|N/A|
+|[packaging](https://pypi.org/packaging)|v20.3|N/A|N/A |BSD-3-Clause,Apache-2.0|N/A|
 
 <br/>
 <div align='center'>
