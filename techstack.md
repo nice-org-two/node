@@ -827,7 +827,6 @@ Full tech stack [here](/techstack.md)
 |[terser](https://www.npmjs.com/terser)|v4.1.4|N/A|N/A |BSD-2-Clause|[CVE-2022-25858](https://github.com/advisories/GHSA-4wf5-vphf-c2xc) (High)|
 |[ajv](https://www.npmjs.com/ajv)|v6.10.2|N/A|N/A |MIT|[CVE-2020-15366](https://github.com/advisories/GHSA-v88g-cgmw-v5xw) (Moderate)|
 |[bl](https://www.npmjs.com/bl)|v2.0.0|N/A|N/A |MIT|[CVE-2020-8244](https://github.com/advisories/GHSA-pp7h-53gx-mx7r) (Moderate)|
-|[debug](https://www.npmjs.com/debug)|v4.1.1|N/A|N/A |MIT|[CVE-2017-16137](https://github.com/advisories/GHSA-gxpj-cx7g-858c) (Moderate)|
 |[got](https://www.npmjs.com/got)|v11.8.3|N/A|N/A |MIT|[CVE-2022-33987](https://github.com/advisories/GHSA-pfrx-2q88-qq97) (Moderate)|
 |[hosted-git-info](https://www.npmjs.com/hosted-git-info)|v2.8.4|N/A|N/A |ISC|[CVE-2021-23362](https://github.com/advisories/GHSA-43f8-2h32-f4cj) (Moderate)|
 |[ip](https://www.npmjs.com/ip)|v1.1.5|N/A|N/A |MIT|[CVE-2023-42282](https://github.com/advisories/GHSA-78xj-cgh5-2h22) (Moderate)|
@@ -835,6 +834,7 @@ Full tech stack [here](/techstack.md)
 |[request](https://www.npmjs.com/request)|v2.88.0|N/A|N/A |Apache-2.0|[CVE-2023-28155](https://github.com/advisories/GHSA-p8p7-x288-28g6) (Moderate)|
 |[semantic-release](https://www.npmjs.com/semantic-release)|v19.0.2|N/A|N/A |MIT|[CVE-2022-31051](https://github.com/advisories/GHSA-x2pg-mjhr-2m5x) (Moderate)|
 |[word-wrap](https://www.npmjs.com/word-wrap)|v1.2.3|N/A|N/A |MIT|[CVE-2023-26115](https://github.com/advisories/GHSA-j8xg-fqg3-53r7) (Moderate)|
+|[debug](https://www.npmjs.com/debug)|v4.1.1|N/A|N/A |MIT|[CVE-2017-16137](https://github.com/advisories/GHSA-gxpj-cx7g-858c) (Low)|
 |[@babel/cli](https://www.npmjs.com/@babel/cli)|v7.5.5|N/A|N/A |MIT|N/A|
 |[@babel/code-frame](https://www.npmjs.com/@babel/code-frame)|v7.5.5|N/A|N/A |MIT|N/A|
 |[@babel/core](https://www.npmjs.com/@babel/core)|v7.7.4|N/A|N/A |MIT|N/A|
