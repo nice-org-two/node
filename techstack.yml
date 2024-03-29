@@ -1,8 +1,8 @@
 repo_name: nice-org-two/node
-report_id: b3ff40fd542f66fd7612e5af87a2673e
+report_id: d8322bc18e6f2002d9a0eec4dd72ce47
 version: 0.1
 repo_type: Public
-timestamp: '2024-03-29T06:59:20+00:00'
+timestamp: '2024-03-29T10:50:05+00:00'
 requested_by: npm-cli-bot
 provider: github
 branch: main
@@ -1143,25 +1143,6 @@ tools:
     detected_date: Aug 22
     severity: moderate
     first_patched: 2.2.1
-- name: debug
-  description: Small debugging utility
-  package_url: https://www.npmjs.com/debug
-  version: 4.1.1
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  image_url: https://img.stackshare.io/package/15852/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
-  detection_source_url: https://github.com/nice-org-two/node/blob/main/deps/npm/node_modules/minipass-sized/package-lock.json
-  detection_source: deps/corepack/package.json
-  vulnerabilities:
-  - name: Regular Expression Denial of Service in debug
-    cve_id: CVE-2017-16137
-    cve_url: https://github.com/advisories/GHSA-gxpj-cx7g-858c
-    detected_date: Aug 22
-    severity: moderate
-    first_patched: 4.3.1
 - name: got
   description: Human-friendly and powerful HTTP request library for Node.js
   package_url: https://www.npmjs.com/got
@@ -1295,6 +1276,25 @@ tools:
     detected_date: Jun 28
     severity: moderate
     first_patched: 1.2.4
+- name: debug
+  description: Small debugging utility
+  package_url: https://www.npmjs.com/debug
+  version: 4.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15852/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: https://github.com/nice-org-two/node/blob/main/deps/npm/node_modules/minipass-sized/package-lock.json
+  detection_source: deps/corepack/package.json
+  vulnerabilities:
+  - name: Regular Expression Denial of Service in debug
+    cve_id: CVE-2017-16137
+    cve_url: https://github.com/advisories/GHSA-gxpj-cx7g-858c
+    detected_date: Aug 22
+    severity: low
+    first_patched: 4.3.1
 - name: "@babel/cli"
   description: Babel command line
   package_url: https://www.npmjs.com/@babel/cli
