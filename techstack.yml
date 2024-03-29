@@ -1,8 +1,8 @@
 repo_name: nice-org-two/node
-report_id: 723e68837327fa810c7b3d487785c6ba
+report_id: b3ff40fd542f66fd7612e5af87a2673e
 version: 0.1
 repo_type: Public
-timestamp: '2024-03-17T10:17:03+00:00'
+timestamp: '2024-03-29T06:58:20+00:00'
 requested_by: npm-cli-bot
 provider: github
 branch: main
@@ -816,6 +816,485 @@ tools:
   image_url: https://img.stackshare.io/service/4535/no-img-open-source.png
   detection_source_url: https://github.com/nice-org-two/node/blob/main/deps/npm/node_modules/aggregate-error/package.json
   detection_source: deps/npm/node_modules/aggregate-error/package.json
+- name: "@babel/traverse"
+  description: The Babel Traverse module maintains the overall tree state
+  package_url: https://www.npmjs.com/@babel/traverse
+  version: 7.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17114/default_5b9eca95ab3651165eb280ed5e0bc9a9382ad24d.png
+  detection_source_url: https://github.com/nice-org-two/node/blob/main/deps/npm/node_modules/minipass-sized/package-lock.json
+  detection_source: deps/v8/tools/clusterfuzz/js_fuzzer/package.json
+  vulnerabilities:
+  - name: Babel vulnerable to arbitrary code execution when compiling specifically
+      crafted malicious code
+    cve_id: CVE-2023-45133
+    cve_url: https://github.com/advisories/GHSA-67hx-6x53-jw92
+    detected_date: Oct 17
+    severity: critical
+    first_patched: 7.23.2
+- name: grunt-karma
+  description: Grunt plugin for karma test runner
+  package_url: https://www.npmjs.com/grunt-karma
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16328/default_e8196e273db814cf9be505b35dec386fafb0dbaa.png
+  detection_source_url: https://github.com/nice-org-two/node/blob/main/deps/npm/node_modules/diff/package.json
+  detection_source: deps/npm/node_modules/diff/package.json
+  vulnerabilities:
+  - name: Grunt-karma vulnerable to prototype pollution
+    cve_id: CVE-2022-37602
+    cve_url: https://github.com/advisories/GHSA-hcj4-xf6x-63wj
+    detected_date: Oct 20
+    severity: critical
+    first_patched:
+- name: minimist
+  description: Parse argument options
+  package_url: https://www.npmjs.com/minimist
+  version: 1.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15918/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/nice-org-two/node/blob/main/deps/npm/node_modules/minipass-sized/package-lock.json
+  detection_source: tools/node_modules/eslint/node_modules/esrecurse/package.json
+  vulnerabilities:
+  - name: Prototype Pollution in minimist
+    cve_id: CVE-2021-44906
+    cve_url: https://github.com/advisories/GHSA-xvch-5gv4-984h
+    detected_date: Mar 22
+    severity: critical
+    first_patched: 1.2.6
+  - name: 'Withdrawn: ESLint dependencies are vulnerable (ReDoS and Prototype Pollution)'
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-7fhm-mqm4-2wp7
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 1.2.2
+  - name: Prototype Pollution in minimist
+    cve_id: CVE-2020-7598
+    cve_url: https://github.com/advisories/GHSA-vh95-rmgr-6w4m
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 1.2.3
+- name: ansi-regex
+  description: Regular expression for matching ANSI escape codes
+  package_url: https://www.npmjs.com/ansi-regex
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17917/default_72dbba22ca96f25f78f55f8ea5393222efca5494.png
+  detection_source_url: https://github.com/nice-org-two/node/blob/main/deps/npm/node_modules/minipass-sized/package-lock.json
+  detection_source: deps/npm/node_modules/strip-ansi/package.json
+  vulnerabilities:
+  - name: Inefficient Regular Expression Complexity in chalk/ansi-regex
+    cve_id: CVE-2021-3807
+    cve_url: https://github.com/advisories/GHSA-93q8-gq69-wqmw
+    detected_date: Sep 21
+    severity: high
+    first_patched: 3.0.1
+- name: dot
+  description: Concise and fast javascript templating compatible with nodejs and other
+    javascript environments
+  package_url: https://www.npmjs.com/dot
+  version: 1.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17465/default_10a98ebc0146ab94b0fde6f7013c1279c82e4135.png
+  detection_source_url: https://github.com/nice-org-two/node/blob/main/tools/node_modules/eslint/node_modules/ajv/package.json
+  detection_source: tools/node_modules/eslint/node_modules/ajv/package.json
+  vulnerabilities:
+  - name: Improper Control of Generation of Code in doT
+    cve_id: CVE-2020-8141
+    cve_url: https://github.com/advisories/GHSA-297x-8xj4-vcxv
+    detected_date: Jun 24
+    severity: high
+    first_patched: 1.1.3
+  - name: Command Injection in dot
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-4859-gpc7-4j66
+    detected_date: Aug 22
+    severity: moderate
+    first_patched:
+- name: dot-prop
+  description: Get
+  package_url: https://www.npmjs.com/dot-prop
+  version: 4.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17800/default_78858facb60c08d15198eb69a6c7f48463f2c09f.png
+  detection_source_url: https://github.com/nice-org-two/node/blob/main/tools/node_modules/eslint/node_modules/eslint-utils/package.json
+  detection_source: tools/node_modules/eslint/node_modules/eslint-utils/package.json
+  vulnerabilities:
+  - name: dot-prop Prototype Pollution vulnerability
+    cve_id: CVE-2020-8116
+    cve_url: https://github.com/advisories/GHSA-ff7x-qrg7-qggm
+    detected_date: Aug 22
+    severity: high
+    first_patched: 4.2.1
+- name: json5
+  description: JSON for humans
+  package_url: https://www.npmjs.com/json5
+  version: 0.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16645/default_783b9b6c17b863f264c1418b0eb831316f741afd.png
+  detection_source_url: https://github.com/nice-org-two/node/blob/main/deps/npm/node_modules/minipass-sized/package-lock.json
+  detection_source: tools/node_modules/eslint/node_modules/@babel/core/package.json
+  vulnerabilities:
+  - name: Prototype Pollution in JSON5 via Parse Method
+    cve_id: CVE-2022-46175
+    cve_url: https://github.com/advisories/GHSA-9c47-m6qq-7p4h
+    detected_date: Dec 29
+    severity: high
+    first_patched: 1.0.2
+- name: marked
+  description: A markdown parser built for speed
+  package_url: https://www.npmjs.com/marked
+  version: 4.0.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16065/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/nice-org-two/node/blob/main/tools/node_modules/eslint/package.json
+  detection_source: tools/node_modules/eslint/package.json
+  vulnerabilities:
+  - name: Inefficient Regular Expression Complexity in marked
+    cve_id: CVE-2022-21681
+    cve_url: https://github.com/advisories/GHSA-5v2h-r2cx-5xgj
+    detected_date: Jan 15
+    severity: high
+    first_patched: 4.0.10
+  - name: Inefficient Regular Expression Complexity in marked
+    cve_id: CVE-2022-21680
+    cve_url: https://github.com/advisories/GHSA-rrrm-qjm4-v8hf
+    detected_date: Jan 15
+    severity: high
+    first_patched: 4.0.10
+- name: minimatch
+  description: A glob matcher in javascript
+  package_url: https://www.npmjs.com/minimatch
+  version: 3.0.4
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16195/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
+  detection_source_url: https://github.com/nice-org-two/node/blob/main/deps/npm/node_modules/minipass-sized/package-lock.json
+  detection_source: deps/npm/node_modules/@npmcli/map-workspaces/package.json
+  vulnerabilities:
+  - name: minimatch ReDoS vulnerability
+    cve_id: CVE-2022-3517
+    cve_url: https://github.com/advisories/GHSA-f8q6-p94x-37v3
+    detected_date: Oct 21
+    severity: high
+    first_patched: 3.0.5
+- name: shelljs
+  description: Portable Unix shell commands for Node.js
+  package_url: https://www.npmjs.com/shelljs
+  version: 0.8.3
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15897/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/nice-org-two/node/blob/main/tools/node_modules/eslint/node_modules/@babel/eslint-parser/node_modules/eslint-scope/package.json
+  detection_source: tools/node_modules/eslint/node_modules/@babel/eslint-parser/node_modules/eslint-scope/package.json
+  vulnerabilities:
+  - name: Improper Privilege Management in shelljs
+    cve_id: CVE-2022-0144
+    cve_url: https://github.com/advisories/GHSA-4rq4-32rv-6wp6
+    detected_date: Jan 22
+    severity: high
+    first_patched: 0.8.5
+  - name: Improper Privilege Management in shelljs
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-64g7-mvw6-v9qj
+    detected_date: Jan 15
+    severity: moderate
+    first_patched: 0.8.5
+- name: tar
+  description: Tar for node
+  package_url: https://www.npmjs.com/tar
+  version: 6.0.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16466/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source_url: https://github.com/nice-org-two/node/blob/main/deps/corepack/package.json
+  detection_source: deps/corepack/package.json
+  vulnerabilities:
+  - name: Arbitrary File Creation/Overwrite due to insufficient absolute path sanitization
+    cve_id: CVE-2021-32804
+    cve_url: https://github.com/advisories/GHSA-3jfq-g458-7qm9
+    detected_date: Aug 22
+    severity: high
+    first_patched: 6.1.1
+  - name: Arbitrary File Creation/Overwrite via insufficient symlink protection due
+      to directory cache poisoning using symbolic links
+    cve_id: CVE-2021-37701
+    cve_url: https://github.com/advisories/GHSA-9r2w-394v-53qc
+    detected_date: Sep 1
+    severity: high
+    first_patched: 6.1.7
+  - name: Arbitrary File Creation/Overwrite via insufficient symlink protection due
+      to directory cache poisoning
+    cve_id: CVE-2021-32803
+    cve_url: https://github.com/advisories/GHSA-r628-mhmh-qjhw
+    detected_date: Aug 22
+    severity: high
+    first_patched: 6.1.2
+  - name: Arbitrary File Creation/Overwrite on Windows via insufficient relative path
+      sanitization
+    cve_id: CVE-2021-37713
+    cve_url: https://github.com/advisories/GHSA-5955-9wpr-37jh
+    detected_date: Sep 1
+    severity: high
+    first_patched: 6.1.9
+  - name: Arbitrary File Creation/Overwrite via insufficient symlink protection due
+      to directory cache poisoning using symbolic links
+    cve_id: CVE-2021-37712
+    cve_url: https://github.com/advisories/GHSA-qq89-hq3f-393p
+    detected_date: Sep 1
+    severity: high
+    first_patched: 6.1.9
+- name: terser
+  description: JavaScript parser
+  package_url: https://www.npmjs.com/terser
+  version: 4.1.4
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16562/default_536789d2630ed352dc721a1c915ab456b7660201.png
+  detection_source_url: https://github.com/nice-org-two/node/blob/main/deps/cjs-module-lexer/package.json
+  detection_source: deps/cjs-module-lexer/package.json
+  vulnerabilities:
+  - name: Terser insecure use of regular expressions leads to ReDoS
+    cve_id: CVE-2022-25858
+    cve_url: https://github.com/advisories/GHSA-4wf5-vphf-c2xc
+    detected_date: Jul 20
+    severity: high
+    first_patched: 4.8.1
+- name: ajv
+  description: Another JSON Schema Validator
+  package_url: https://www.npmjs.com/ajv
+  version: 6.10.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16186/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/nice-org-two/node/blob/main/deps/npm/node_modules/minipass-sized/package-lock.json
+  detection_source: tools/node_modules/eslint/node_modules/@eslint/eslintrc/package.json
+  vulnerabilities:
+  - name: Prototype Pollution in Ajv
+    cve_id: CVE-2020-15366
+    cve_url: https://github.com/advisories/GHSA-v88g-cgmw-v5xw
+    detected_date: Feb 11
+    severity: moderate
+    first_patched: 6.12.3
+- name: bl
+  description: 'Buffer List: collect buffers and access with a standard readable Buffer
+    interface'
+  package_url: https://www.npmjs.com/bl
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17221/default_183829c5079b84333a720d8590a328efc043ba0e.png
+  detection_source_url: https://github.com/nice-org-two/node/blob/main/deps/npm/node_modules/readable-stream/package.json
+  detection_source: deps/npm/node_modules/readable-stream/package.json
+  vulnerabilities:
+  - name: Remote Memory Exposure in bl
+    cve_id: CVE-2020-8244
+    cve_url: https://github.com/advisories/GHSA-pp7h-53gx-mx7r
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 2.2.1
+- name: debug
+  description: Small debugging utility
+  package_url: https://www.npmjs.com/debug
+  version: 4.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15852/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: https://github.com/nice-org-two/node/blob/main/deps/npm/node_modules/minipass-sized/package-lock.json
+  detection_source: deps/corepack/package.json
+  vulnerabilities:
+  - name: Regular Expression Denial of Service in debug
+    cve_id: CVE-2017-16137
+    cve_url: https://github.com/advisories/GHSA-gxpj-cx7g-858c
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 4.3.1
+- name: got
+  description: Human-friendly and powerful HTTP request library for Node.js
+  package_url: https://www.npmjs.com/got
+  version: 11.8.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16258/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
+  detection_source_url: https://github.com/nice-org-two/node/blob/main/tools/node_modules/eslint/package.json
+  detection_source: tools/node_modules/eslint/package.json
+  vulnerabilities:
+  - name: Got allows a redirect to a UNIX socket
+    cve_id: CVE-2022-33987
+    cve_url: https://github.com/advisories/GHSA-pfrx-2q88-qq97
+    detected_date: Jun 22
+    severity: moderate
+    first_patched: 11.8.5
+- name: hosted-git-info
+  description: Provides metadata and conversions from repository urls for Github
+  package_url: https://www.npmjs.com/hosted-git-info
+  version: 2.8.4
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18382/default_0008ec7bce131ce74614376dd8fedbce07bc8742.png
+  detection_source_url: https://github.com/nice-org-two/node/blob/main/deps/npm/node_modules/minipass-sized/package-lock.json
+  detection_source: deps/npm/node_modules/normalize-package-data/package.json
+  vulnerabilities:
+  - name: Regular Expression Denial of Service in hosted-git-info
+    cve_id: CVE-2021-23362
+    cve_url: https://github.com/advisories/GHSA-43f8-2h32-f4cj
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 2.8.9
+- name: ip
+  description: "[![]"
+  package_url: https://www.npmjs.com/ip
+  version: 1.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16483/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source_url: https://github.com/nice-org-two/node/blob/main/deps/npm/node_modules/socks/package.json
+  detection_source: deps/npm/node_modules/socks/package.json
+  vulnerabilities:
+  - name: NPM IP package incorrectly identifies some private IP addresses as public
+    cve_id: CVE-2023-42282
+    cve_url: https://github.com/advisories/GHSA-78xj-cgh5-2h22
+    detected_date: Feb 10
+    severity: moderate
+    first_patched: 1.1.9
+- name: pkg
+  description: Package your Node.js project into an executable
+  package_url: https://www.npmjs.com/pkg
+  version: 4.3.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17535/default_1d2902e8f9c84259702671591379572493b9009b.png
+  detection_source_url: https://github.com/nice-org-two/node/blob/main/deps/v8/tools/clusterfuzz/js_fuzzer/package-lock.json
+  detection_source: deps/v8/tools/clusterfuzz/js_fuzzer/package.json
+  vulnerabilities:
+  - name: Pkg Local Privilege Escalation
+    cve_id: CVE-2024-24828
+    cve_url: https://github.com/advisories/GHSA-22r3-9w55-cj54
+    detected_date: Feb 10
+    severity: moderate
+    first_patched:
+- name: request
+  description: Simplified HTTP request client
+  package_url: https://www.npmjs.com/request
+  version: 2.88.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15823/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/nice-org-two/node/blob/main/deps/npm/node_modules/minipass-sized/package-lock.json
+  detection_source: deps/npm/node_modules/iconv-lite/package.json
+  vulnerabilities:
+  - name: Server-Side Request Forgery in Request
+    cve_id: CVE-2023-28155
+    cve_url: https://github.com/advisories/GHSA-p8p7-x288-28g6
+    detected_date: Mar 17
+    severity: moderate
+    first_patched:
+- name: semantic-release
+  description: Automated semver compliant package publishing
+  package_url: https://www.npmjs.com/semantic-release
+  version: 19.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15935/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/nice-org-two/node/blob/main/tools/node_modules/eslint/node_modules/eslint-plugin-jsdoc/package.json
+  detection_source: tools/node_modules/eslint/node_modules/eslint-plugin-jsdoc/package.json
+  vulnerabilities:
+  - name: Exposure of Sensitive Information to an Unauthorized Actor in semantic-release
+    cve_id: CVE-2022-31051
+    cve_url: https://github.com/advisories/GHSA-x2pg-mjhr-2m5x
+    detected_date: Jun 10
+    severity: moderate
+    first_patched: 19.0.3
+- name: word-wrap
+  description: Wrap words to a specified length
+  package_url: https://www.npmjs.com/word-wrap
+  version: 1.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18154/default_63cbe387694d6d77dde61448de98c6bd2a9b18de.png
+  detection_source_url: https://github.com/nice-org-two/node/blob/main/deps/v8/tools/clusterfuzz/js_fuzzer/package-lock.json
+  detection_source: tools/node_modules/eslint/node_modules/optionator/package.json
+  vulnerabilities:
+  - name: word-wrap vulnerable to Regular Expression Denial of Service
+    cve_id: CVE-2023-26115
+    cve_url: https://github.com/advisories/GHSA-j8xg-fqg3-53r7
+    detected_date: Jun 28
+    severity: moderate
+    first_patched: 1.2.4
 - name: "@babel/cli"
   description: Babel command line
   package_url: https://www.npmjs.com/@babel/cli
@@ -996,26 +1475,6 @@ tools:
   image_url: https://img.stackshare.io/package/18110/image.png
   detection_source_url: https://github.com/nice-org-two/node/blob/main/deps/npm/node_modules/minipass-sized/package-lock.json
   detection_source: deps/v8/tools/clusterfuzz/js_fuzzer/package.json
-- name: "@babel/traverse"
-  description: The Babel Traverse module maintains the overall tree state
-  package_url: https://www.npmjs.com/@babel/traverse
-  version: 7.6.0
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  image_url: https://img.stackshare.io/package/17114/default_5b9eca95ab3651165eb280ed5e0bc9a9382ad24d.png
-  detection_source_url: https://github.com/nice-org-two/node/blob/main/deps/npm/node_modules/minipass-sized/package-lock.json
-  detection_source: deps/v8/tools/clusterfuzz/js_fuzzer/package.json
-  vulnerabilities:
-  - name: Babel vulnerable to arbitrary code execution when compiling specifically
-      crafted malicious code
-    cve_id: CVE-2023-45133
-    cve_url: https://github.com/advisories/GHSA-67hx-6x53-jw92
-    detected_date: Oct 17
-    severity: critical
-    first_patched: 7.23.2
 - name: "@babel/types"
   description: Babel Types is a Lodash-esque utility library for AST nodes
   package_url: https://www.npmjs.com/@babel/types
@@ -1341,25 +1800,6 @@ tools:
   image_url: https://img.stackshare.io/package/16344/default_9ae0e75ed749aca83d89f7e1ccb309be2bfc610e.png
   detection_source_url: https://github.com/nice-org-two/node/blob/main/deps/v8/tools/clusterfuzz/js_fuzzer/package-lock.json
   detection_source: tools/node_modules/eslint/node_modules/acorn-jsx/package.json
-- name: ajv
-  description: Another JSON Schema Validator
-  package_url: https://www.npmjs.com/ajv
-  version: 6.10.2
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  image_url: https://img.stackshare.io/package/16186/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
-  detection_source_url: https://github.com/nice-org-two/node/blob/main/deps/npm/node_modules/minipass-sized/package-lock.json
-  detection_source: tools/node_modules/eslint/node_modules/@eslint/eslintrc/package.json
-  vulnerabilities:
-  - name: Prototype Pollution in Ajv
-    cve_id: CVE-2020-15366
-    cve_url: https://github.com/advisories/GHSA-v88g-cgmw-v5xw
-    detected_date: Feb 11
-    severity: moderate
-    first_patched: 6.12.3
 - name: ansi
   description: Advanced ANSI formatting tool for Node.js
   package_url: https://www.npmjs.com/ansi
@@ -1372,25 +1812,6 @@ tools:
   image_url: https://img.stackshare.io/package/18744/default_a0c218dcb961fccae1cb03e431692daad86f7866.png
   detection_source_url: https://github.com/nice-org-two/node/blob/main/tools/node_modules/eslint/node_modules/js-yaml/package.json
   detection_source: tools/node_modules/eslint/node_modules/js-yaml/package.json
-- name: ansi-regex
-  description: Regular expression for matching ANSI escape codes
-  package_url: https://www.npmjs.com/ansi-regex
-  version: 3.0.0
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  image_url: https://img.stackshare.io/package/17917/default_72dbba22ca96f25f78f55f8ea5393222efca5494.png
-  detection_source_url: https://github.com/nice-org-two/node/blob/main/deps/npm/node_modules/minipass-sized/package-lock.json
-  detection_source: deps/npm/node_modules/strip-ansi/package.json
-  vulnerabilities:
-  - name: Inefficient Regular Expression Complexity in chalk/ansi-regex
-    cve_id: CVE-2021-3807
-    cve_url: https://github.com/advisories/GHSA-93q8-gq69-wqmw
-    detected_date: Sep 21
-    severity: high
-    first_patched: 3.0.1
 - name: ansi-styles
   description: ANSI escape codes for styling strings in the terminal
   package_url: https://www.npmjs.com/ansi-styles
@@ -1694,26 +2115,6 @@ tools:
   image_url: https://img.stackshare.io/package/16564/default_aaf5839b9bd35cf60ebf8e1b59d64d8e3b398aaa.png
   detection_source_url: https://github.com/nice-org-two/node/blob/main/deps/npm/node_modules/node-gyp/package.json
   detection_source: deps/npm/node_modules/node-gyp/package.json
-- name: bl
-  description: 'Buffer List: collect buffers and access with a standard readable Buffer
-    interface'
-  package_url: https://www.npmjs.com/bl
-  version: 2.0.0
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  image_url: https://img.stackshare.io/package/17221/default_183829c5079b84333a720d8590a328efc043ba0e.png
-  detection_source_url: https://github.com/nice-org-two/node/blob/main/deps/npm/node_modules/readable-stream/package.json
-  detection_source: deps/npm/node_modules/readable-stream/package.json
-  vulnerabilities:
-  - name: Remote Memory Exposure in bl
-    cve_id: CVE-2020-8244
-    cve_url: https://github.com/advisories/GHSA-pp7h-53gx-mx7r
-    detected_date: Aug 22
-    severity: moderate
-    first_patched: 2.2.1
 - name: bluebird
   description: Full featured Promises/A+ implementation with exceptionally good performance
   package_url: https://www.npmjs.com/bluebird
@@ -2124,25 +2525,6 @@ tools:
   image_url: https://img.stackshare.io/package/16480/default_55f3303d620c93eecbee69c43373d484f2be492f.png
   detection_source_url: https://github.com/nice-org-two/node/blob/main/tools/node_modules/eslint/node_modules/doctrine/package.json
   detection_source: tools/node_modules/eslint/node_modules/doctrine/package.json
-- name: debug
-  description: Small debugging utility
-  package_url: https://www.npmjs.com/debug
-  version: 4.1.1
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  image_url: https://img.stackshare.io/package/15852/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
-  detection_source_url: https://github.com/nice-org-two/node/blob/main/deps/npm/node_modules/minipass-sized/package-lock.json
-  detection_source: deps/corepack/package.json
-  vulnerabilities:
-  - name: Regular Expression Denial of Service in debug
-    cve_id: CVE-2017-16137
-    cve_url: https://github.com/advisories/GHSA-gxpj-cx7g-858c
-    detected_date: Aug 22
-    severity: moderate
-    first_patched: 4.3.1
 - name: decamelize
   description: 'Convert a camelized string into a lowercased one with a custom separator:
     unicornRainbow → unicorn_rainbow'
@@ -2252,51 +2634,6 @@ tools:
   image_url: https://img.stackshare.io/package/17843/default_78858facb60c08d15198eb69a6c7f48463f2c09f.png
   detection_source_url: https://github.com/nice-org-two/node/blob/main/deps/v8/tools/clusterfuzz/js_fuzzer/package-lock.json
   detection_source: tools/node_modules/eslint/package.json
-- name: dot
-  description: Concise and fast javascript templating compatible with nodejs and other
-    javascript environments
-  package_url: https://www.npmjs.com/dot
-  version: 1.0.3
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  image_url: https://img.stackshare.io/package/17465/default_10a98ebc0146ab94b0fde6f7013c1279c82e4135.png
-  detection_source_url: https://github.com/nice-org-two/node/blob/main/tools/node_modules/eslint/node_modules/ajv/package.json
-  detection_source: tools/node_modules/eslint/node_modules/ajv/package.json
-  vulnerabilities:
-  - name: Improper Control of Generation of Code in doT
-    cve_id: CVE-2020-8141
-    cve_url: https://github.com/advisories/GHSA-297x-8xj4-vcxv
-    detected_date: Jun 24
-    severity: high
-    first_patched: 1.1.3
-  - name: Command Injection in dot
-    cve_id:
-    cve_url: https://github.com/advisories/GHSA-4859-gpc7-4j66
-    detected_date: Aug 22
-    severity: moderate
-    first_patched:
-- name: dot-prop
-  description: Get
-  package_url: https://www.npmjs.com/dot-prop
-  version: 4.2.0
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  image_url: https://img.stackshare.io/package/17800/default_78858facb60c08d15198eb69a6c7f48463f2c09f.png
-  detection_source_url: https://github.com/nice-org-two/node/blob/main/tools/node_modules/eslint/node_modules/eslint-utils/package.json
-  detection_source: tools/node_modules/eslint/node_modules/eslint-utils/package.json
-  vulnerabilities:
-  - name: dot-prop Prototype Pollution vulnerability
-    cve_id: CVE-2020-8116
-    cve_url: https://github.com/advisories/GHSA-ff7x-qrg7-qggm
-    detected_date: Aug 22
-    severity: high
-    first_patched: 4.2.1
 - name: dts-bundle
   description: Export TypeScript .d.ts files as an external module definition
   package_url: https://www.npmjs.com/dts-bundle
@@ -2886,25 +3223,6 @@ tools:
   image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
   detection_source_url: https://github.com/nice-org-two/node/blob/main/deps/npm/node_modules/minipass-sized/package-lock.json
   detection_source: deps/npm/node_modules/@npmcli/map-workspaces/package.json
-- name: got
-  description: Human-friendly and powerful HTTP request library for Node.js
-  package_url: https://www.npmjs.com/got
-  version: 11.8.3
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  image_url: https://img.stackshare.io/package/16258/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
-  detection_source_url: https://github.com/nice-org-two/node/blob/main/tools/node_modules/eslint/package.json
-  detection_source: tools/node_modules/eslint/package.json
-  vulnerabilities:
-  - name: Got allows a redirect to a UNIX socket
-    cve_id: CVE-2022-33987
-    cve_url: https://github.com/advisories/GHSA-pfrx-2q88-qq97
-    detected_date: Jun 22
-    severity: moderate
-    first_patched: 11.8.5
 - name: graceful-fs
   description: A drop-in replacement for fs, making various improvements
   package_url: https://www.npmjs.com/graceful-fs
@@ -3037,25 +3355,6 @@ tools:
   image_url: https://img.stackshare.io/package/16754/default_6dc099b12d47e378ae121fb53c336fe5d8f0ffc8.png
   detection_source_url: https://github.com/nice-org-two/node/blob/main/deps/npm/node_modules/diff/package.json
   detection_source: deps/npm/node_modules/diff/package.json
-- name: grunt-karma
-  description: Grunt plugin for karma test runner
-  package_url: https://www.npmjs.com/grunt-karma
-  version: 4.0.0
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  image_url: https://img.stackshare.io/package/16328/default_e8196e273db814cf9be505b35dec386fafb0dbaa.png
-  detection_source_url: https://github.com/nice-org-two/node/blob/main/deps/npm/node_modules/diff/package.json
-  detection_source: deps/npm/node_modules/diff/package.json
-  vulnerabilities:
-  - name: Grunt-karma vulnerable to prototype pollution
-    cve_id: CVE-2022-37602
-    cve_url: https://github.com/advisories/GHSA-hcj4-xf6x-63wj
-    detected_date: Oct 20
-    severity: critical
-    first_patched:
 - name: grunt-mocha-istanbul
   description: Almost config-free Istanbul code coverage reporter for Mocha usage
     in Grunt
@@ -3201,25 +3500,6 @@ tools:
   image_url: https://img.stackshare.io/package/18039/image.png
   detection_source_url: https://github.com/nice-org-two/node/blob/main/deps/v8/tools/package-lock.json
   detection_source: deps/npm/node_modules/is-core-module/package.json
-- name: hosted-git-info
-  description: Provides metadata and conversions from repository urls for Github
-  package_url: https://www.npmjs.com/hosted-git-info
-  version: 2.8.4
-  license: ISC
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  image_url: https://img.stackshare.io/package/18382/default_0008ec7bce131ce74614376dd8fedbce07bc8742.png
-  detection_source_url: https://github.com/nice-org-two/node/blob/main/deps/npm/node_modules/minipass-sized/package-lock.json
-  detection_source: deps/npm/node_modules/normalize-package-data/package.json
-  vulnerabilities:
-  - name: Regular Expression Denial of Service in hosted-git-info
-    cve_id: CVE-2021-23362
-    cve_url: https://github.com/advisories/GHSA-43f8-2h32-f4cj
-    detected_date: Aug 22
-    severity: moderate
-    first_patched: 2.8.9
 - name: https-proxy-agent
   description: An HTTP
   package_url: https://www.npmjs.com/https-proxy-agent
@@ -3329,25 +3609,6 @@ tools:
   image_url: https://img.stackshare.io/package/16594/default_ebd83b4f0415be108d977ea72558b13fd7c5283d.png
   detection_source_url: https://github.com/nice-org-two/node/blob/main/deps/npm/node_modules/@npmcli/config/package.json
   detection_source: deps/npm/node_modules/@npmcli/config/package.json
-- name: ip
-  description: "[![]"
-  package_url: https://www.npmjs.com/ip
-  version: 1.1.5
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  image_url: https://img.stackshare.io/package/16483/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
-  detection_source_url: https://github.com/nice-org-two/node/blob/main/deps/npm/node_modules/socks/package.json
-  detection_source: deps/npm/node_modules/socks/package.json
-  vulnerabilities:
-  - name: NPM IP package incorrectly identifies some private IP addresses as public
-    cve_id: CVE-2023-42282
-    cve_url: https://github.com/advisories/GHSA-78xj-cgh5-2h22
-    detected_date: Feb 10
-    severity: moderate
-    first_patched: 1.1.9
 - name: is-glob
   description: Returns `true` if the given string looks like a glob pattern or an
     extglob pattern
@@ -3444,25 +3705,6 @@ tools:
   image_url: https://img.stackshare.io/package/16953/default_277303773c2bdb575ee8f4bfe869f0a33d6755b2.png
   detection_source_url: https://github.com/nice-org-two/node/blob/main/tools/node_modules/eslint/node_modules/fast-json-stable-stringify/package.json
   detection_source: tools/node_modules/eslint/node_modules/fast-json-stable-stringify/package.json
-- name: json5
-  description: JSON for humans
-  package_url: https://www.npmjs.com/json5
-  version: 0.5.1
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  image_url: https://img.stackshare.io/package/16645/default_783b9b6c17b863f264c1418b0eb831316f741afd.png
-  detection_source_url: https://github.com/nice-org-two/node/blob/main/deps/npm/node_modules/minipass-sized/package-lock.json
-  detection_source: tools/node_modules/eslint/node_modules/@babel/core/package.json
-  vulnerabilities:
-  - name: Prototype Pollution in JSON5 via Parse Method
-    cve_id: CVE-2022-46175
-    cve_url: https://github.com/advisories/GHSA-9c47-m6qq-7p4h
-    detected_date: Dec 29
-    severity: high
-    first_patched: 1.0.2
 - name: jsondiffpatch
   description: Diff &amp; Patch for Javascript objects
   package_url: https://www.npmjs.com/jsondiffpatch
@@ -3669,81 +3911,6 @@ tools:
   image_url: https://img.stackshare.io/package/17273/default_b2015e9577d171c4c3f12c3c8d253c01fe63ba8d.png
   detection_source_url: https://github.com/nice-org-two/node/blob/main/tools/node_modules/eslint/package.json
   detection_source: tools/node_modules/eslint/package.json
-- name: marked
-  description: A markdown parser built for speed
-  package_url: https://www.npmjs.com/marked
-  version: 4.0.8
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  image_url: https://img.stackshare.io/package/16065/default_c7b204838197013798409fa2b4dafce450edc7fb.png
-  detection_source_url: https://github.com/nice-org-two/node/blob/main/tools/node_modules/eslint/package.json
-  detection_source: tools/node_modules/eslint/package.json
-  vulnerabilities:
-  - name: Inefficient Regular Expression Complexity in marked
-    cve_id: CVE-2022-21681
-    cve_url: https://github.com/advisories/GHSA-5v2h-r2cx-5xgj
-    detected_date: Jan 15
-    severity: high
-    first_patched: 4.0.10
-  - name: Inefficient Regular Expression Complexity in marked
-    cve_id: CVE-2022-21680
-    cve_url: https://github.com/advisories/GHSA-rrrm-qjm4-v8hf
-    detected_date: Jan 15
-    severity: high
-    first_patched: 4.0.10
-- name: minimatch
-  description: A glob matcher in javascript
-  package_url: https://www.npmjs.com/minimatch
-  version: 3.0.4
-  license: ISC
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  image_url: https://img.stackshare.io/package/16195/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
-  detection_source_url: https://github.com/nice-org-two/node/blob/main/deps/npm/node_modules/minipass-sized/package-lock.json
-  detection_source: deps/npm/node_modules/@npmcli/map-workspaces/package.json
-  vulnerabilities:
-  - name: minimatch ReDoS vulnerability
-    cve_id: CVE-2022-3517
-    cve_url: https://github.com/advisories/GHSA-f8q6-p94x-37v3
-    detected_date: Oct 21
-    severity: high
-    first_patched: 3.0.5
-- name: minimist
-  description: Parse argument options
-  package_url: https://www.npmjs.com/minimist
-  version: 1.2.0
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  image_url: https://img.stackshare.io/package/15918/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
-  detection_source_url: https://github.com/nice-org-two/node/blob/main/deps/npm/node_modules/minipass-sized/package-lock.json
-  detection_source: tools/node_modules/eslint/node_modules/esrecurse/package.json
-  vulnerabilities:
-  - name: Prototype Pollution in minimist
-    cve_id: CVE-2021-44906
-    cve_url: https://github.com/advisories/GHSA-xvch-5gv4-984h
-    detected_date: Mar 22
-    severity: critical
-    first_patched: 1.2.6
-  - name: 'Withdrawn: ESLint dependencies are vulnerable (ReDoS and Prototype Pollution)'
-    cve_id:
-    cve_url: https://github.com/advisories/GHSA-7fhm-mqm4-2wp7
-    detected_date: Aug 22
-    severity: moderate
-    first_patched: 1.2.2
-  - name: Prototype Pollution in minimist
-    cve_id: CVE-2020-7598
-    cve_url: https://github.com/advisories/GHSA-vh95-rmgr-6w4m
-    detected_date: Aug 22
-    severity: moderate
-    first_patched: 1.2.3
 - name: mkdirp
   description: Recursively mkdir, like `mkdir -p`
   package_url: https://www.npmjs.com/mkdirp
@@ -3997,25 +4164,6 @@ tools:
   image_url: https://img.stackshare.io/package/16881/default_7fe969828600a90e84607bfa2a19979e53a0579d.png
   detection_source_url: https://github.com/nice-org-two/node/blob/main/tools/node_modules/eslint/node_modules/esquery/package.json
   detection_source: tools/node_modules/eslint/node_modules/esquery/package.json
-- name: pkg
-  description: Package your Node.js project into an executable
-  package_url: https://www.npmjs.com/pkg
-  version: 4.3.4
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  image_url: https://img.stackshare.io/package/17535/default_1d2902e8f9c84259702671591379572493b9009b.png
-  detection_source_url: https://github.com/nice-org-two/node/blob/main/deps/v8/tools/clusterfuzz/js_fuzzer/package-lock.json
-  detection_source: deps/v8/tools/clusterfuzz/js_fuzzer/package.json
-  vulnerabilities:
-  - name: Pkg Local Privilege Escalation
-    cve_id: CVE-2024-24828
-    cve_url: https://github.com/advisories/GHSA-22r3-9w55-cj54
-    detected_date: Feb 10
-    severity: moderate
-    first_patched:
 - name: prelude-ls
   description: Prelude.ls is a functionally oriented utility library
   package_url: https://www.npmjs.com/prelude-ls
@@ -4282,25 +4430,6 @@ tools:
   image_url: https://img.stackshare.io/package/16890/default_143d92b1fc944107cf48a3ab42a2a347bf3d91b5.png
   detection_source_url: https://github.com/nice-org-two/node/blob/main/tools/node_modules/eslint/node_modules/comment-parser/package.json
   detection_source: tools/node_modules/eslint/node_modules/comment-parser/package.json
-- name: request
-  description: Simplified HTTP request client
-  package_url: https://www.npmjs.com/request
-  version: 2.88.0
-  license: Apache-2.0
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  image_url: https://img.stackshare.io/package/15823/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
-  detection_source_url: https://github.com/nice-org-two/node/blob/main/deps/npm/node_modules/minipass-sized/package-lock.json
-  detection_source: deps/npm/node_modules/iconv-lite/package.json
-  vulnerabilities:
-  - name: Server-Side Request Forgery in Request
-    cve_id: CVE-2023-28155
-    cve_url: https://github.com/advisories/GHSA-p8p7-x288-28g6
-    detected_date: Mar 17
-    severity: moderate
-    first_patched:
 - name: resolve-from
   description: Resolve the path of a module like `require.resolve
   package_url: https://www.npmjs.com/resolve-from
@@ -4458,50 +4587,6 @@ tools:
   image_url: https://img.stackshare.io/package/17965/default_fc5f66cf44024e173fd07c415d4f30ca58b4cbad.png
   detection_source_url: https://github.com/nice-org-two/node/blob/main/deps/npm/node_modules/is-core-module/package.json
   detection_source: deps/npm/node_modules/is-core-module/package.json
-- name: semantic-release
-  description: Automated semver compliant package publishing
-  package_url: https://www.npmjs.com/semantic-release
-  version: 19.0.2
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  image_url: https://img.stackshare.io/package/15935/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
-  detection_source_url: https://github.com/nice-org-two/node/blob/main/tools/node_modules/eslint/node_modules/eslint-plugin-jsdoc/package.json
-  detection_source: tools/node_modules/eslint/node_modules/eslint-plugin-jsdoc/package.json
-  vulnerabilities:
-  - name: Exposure of Sensitive Information to an Unauthorized Actor in semantic-release
-    cve_id: CVE-2022-31051
-    cve_url: https://github.com/advisories/GHSA-x2pg-mjhr-2m5x
-    detected_date: Jun 10
-    severity: moderate
-    first_patched: 19.0.3
-- name: shelljs
-  description: Portable Unix shell commands for Node.js
-  package_url: https://www.npmjs.com/shelljs
-  version: 0.8.3
-  license: BSD-3-Clause
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  image_url: https://img.stackshare.io/package/15897/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: https://github.com/nice-org-two/node/blob/main/tools/node_modules/eslint/node_modules/@babel/eslint-parser/node_modules/eslint-scope/package.json
-  detection_source: tools/node_modules/eslint/node_modules/@babel/eslint-parser/node_modules/eslint-scope/package.json
-  vulnerabilities:
-  - name: Improper Privilege Management in shelljs
-    cve_id: CVE-2022-0144
-    cve_url: https://github.com/advisories/GHSA-4rq4-32rv-6wp6
-    detected_date: Jan 22
-    severity: high
-    first_patched: 0.8.5
-  - name: Improper Privilege Management in shelljs
-    cve_id:
-    cve_url: https://github.com/advisories/GHSA-64g7-mvw6-v9qj
-    detected_date: Jan 15
-    severity: moderate
-    first_patched: 0.8.5
 - name: should
   description: Test framework agnostic BDD-style assertions
   package_url: https://www.npmjs.com/should
@@ -4719,53 +4804,6 @@ tools:
   image_url: https://img.stackshare.io/package/17243/default_8da30b412bf0dbb63f862bee0dfab0a32df2fb69.png
   detection_source_url: https://github.com/nice-org-two/node/blob/main/tools/node_modules/eslint/node_modules/parse-entities/package.json
   detection_source: tools/node_modules/eslint/node_modules/parse-entities/package.json
-- name: tar
-  description: Tar for node
-  package_url: https://www.npmjs.com/tar
-  version: 6.0.1
-  license: ISC
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  image_url: https://img.stackshare.io/package/16466/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
-  detection_source_url: https://github.com/nice-org-two/node/blob/main/deps/corepack/package.json
-  detection_source: deps/corepack/package.json
-  vulnerabilities:
-  - name: Arbitrary File Creation/Overwrite due to insufficient absolute path sanitization
-    cve_id: CVE-2021-32804
-    cve_url: https://github.com/advisories/GHSA-3jfq-g458-7qm9
-    detected_date: Aug 22
-    severity: high
-    first_patched: 6.1.1
-  - name: Arbitrary File Creation/Overwrite via insufficient symlink protection due
-      to directory cache poisoning using symbolic links
-    cve_id: CVE-2021-37701
-    cve_url: https://github.com/advisories/GHSA-9r2w-394v-53qc
-    detected_date: Sep 1
-    severity: high
-    first_patched: 6.1.7
-  - name: Arbitrary File Creation/Overwrite via insufficient symlink protection due
-      to directory cache poisoning
-    cve_id: CVE-2021-32803
-    cve_url: https://github.com/advisories/GHSA-r628-mhmh-qjhw
-    detected_date: Aug 22
-    severity: high
-    first_patched: 6.1.2
-  - name: Arbitrary File Creation/Overwrite on Windows via insufficient relative path
-      sanitization
-    cve_id: CVE-2021-37713
-    cve_url: https://github.com/advisories/GHSA-5955-9wpr-37jh
-    detected_date: Sep 1
-    severity: high
-    first_patched: 6.1.9
-  - name: Arbitrary File Creation/Overwrite via insufficient symlink protection due
-      to directory cache poisoning using symbolic links
-    cve_id: CVE-2021-37712
-    cve_url: https://github.com/advisories/GHSA-qq89-hq3f-393p
-    detected_date: Sep 1
-    severity: high
-    first_patched: 6.1.9
 - name: tar-fs
   description: Filesystem bindings for tar-stream
   package_url: https://www.npmjs.com/tar-fs
@@ -4826,25 +4864,6 @@ tools:
   image_url: https://img.stackshare.io/package/17057/default_32da0e64c9ec90f8f302a76668f802f1f4d08177.png
   detection_source_url: https://github.com/nice-org-two/node/blob/main/deps/v8/tools/clusterfuzz/js_fuzzer/package-lock.json
   detection_source: deps/v8/tools/clusterfuzz/js_fuzzer/package.json
-- name: terser
-  description: JavaScript parser
-  package_url: https://www.npmjs.com/terser
-  version: 4.1.4
-  license: BSD-2-Clause
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  image_url: https://img.stackshare.io/package/16562/default_536789d2630ed352dc721a1c915ab456b7660201.png
-  detection_source_url: https://github.com/nice-org-two/node/blob/main/deps/cjs-module-lexer/package.json
-  detection_source: deps/cjs-module-lexer/package.json
-  vulnerabilities:
-  - name: Terser insecure use of regular expressions leads to ReDoS
-    cve_id: CVE-2022-25858
-    cve_url: https://github.com/advisories/GHSA-4wf5-vphf-c2xc
-    detected_date: Jul 20
-    severity: high
-    first_patched: 4.8.1
 - name: terser-webpack-plugin
   description: Terser plugin for webpack
   package_url: https://www.npmjs.com/terser-webpack-plugin
@@ -5099,25 +5118,6 @@ tools:
   image_url: https://img.stackshare.io/package/16482/default_482cf308e8fc087eee8e154f29cc142c834abc51.png
   detection_source_url: https://github.com/nice-org-two/node/blob/main/deps/npm/node_modules/minipass-sized/package-lock.json
   detection_source: deps/corepack/package.json
-- name: word-wrap
-  description: Wrap words to a specified length
-  package_url: https://www.npmjs.com/word-wrap
-  version: 1.2.3
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  image_url: https://img.stackshare.io/package/18154/default_63cbe387694d6d77dde61448de98c6bd2a9b18de.png
-  detection_source_url: https://github.com/nice-org-two/node/blob/main/deps/v8/tools/clusterfuzz/js_fuzzer/package-lock.json
-  detection_source: tools/node_modules/eslint/node_modules/optionator/package.json
-  vulnerabilities:
-  - name: word-wrap vulnerable to Regular Expression Denial of Service
-    cve_id: CVE-2023-26115
-    cve_url: https://github.com/advisories/GHSA-j8xg-fqg3-53r7
-    detected_date: Jun 28
-    severity: moderate
-    first_patched: 1.2.4
 - name: write
   description: Write data to a file, replacing the file if it already exists and creating
     any intermediate directories if they don't already exist
