@@ -152,7 +152,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [nice-org-two/node](https://github.com/nice-org-two/node)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|420<br/>Tools used|03/17/24 <br/>Report generated|
+|420<br/>Tools used|03/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -813,6 +813,28 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
+|[@babel/traverse](https://www.npmjs.com/@babel/traverse)|v7.6.0|N/A|N/A |MIT|[CVE-2023-45133](https://github.com/advisories/GHSA-67hx-6x53-jw92) (Critical)|
+|[grunt-karma](https://www.npmjs.com/grunt-karma)|v4.0.0|N/A|N/A |MIT|[CVE-2022-37602](https://github.com/advisories/GHSA-hcj4-xf6x-63wj) (Critical)|
+|[minimist](https://www.npmjs.com/minimist)|v1.2.0|N/A|N/A |MIT|[CVE-2021-44906](https://github.com/advisories/GHSA-xvch-5gv4-984h) (Critical)<br/>[](https://github.com/advisories/GHSA-7fhm-mqm4-2wp7) (Moderate)<br/>[CVE-2020-7598](https://github.com/advisories/GHSA-vh95-rmgr-6w4m) (Moderate)|
+|[ansi-regex](https://www.npmjs.com/ansi-regex)|v3.0.0|N/A|N/A |MIT|[CVE-2021-3807](https://github.com/advisories/GHSA-93q8-gq69-wqmw) (High)|
+|[dot](https://www.npmjs.com/dot)|v1.0.3|N/A|N/A |MIT|[CVE-2020-8141](https://github.com/advisories/GHSA-297x-8xj4-vcxv) (High)<br/>[](https://github.com/advisories/GHSA-4859-gpc7-4j66) (Moderate)|
+|[dot-prop](https://www.npmjs.com/dot-prop)|v4.2.0|N/A|N/A |MIT|[CVE-2020-8116](https://github.com/advisories/GHSA-ff7x-qrg7-qggm) (High)|
+|[json5](https://www.npmjs.com/json5)|v0.5.1|N/A|N/A |MIT|[CVE-2022-46175](https://github.com/advisories/GHSA-9c47-m6qq-7p4h) (High)|
+|[marked](https://www.npmjs.com/marked)|v4.0.8|N/A|N/A |MIT|[CVE-2022-21681](https://github.com/advisories/GHSA-5v2h-r2cx-5xgj) (High)<br/>[CVE-2022-21680](https://github.com/advisories/GHSA-rrrm-qjm4-v8hf) (High)|
+|[minimatch](https://www.npmjs.com/minimatch)|v3.0.4|N/A|N/A |ISC|[CVE-2022-3517](https://github.com/advisories/GHSA-f8q6-p94x-37v3) (High)|
+|[shelljs](https://www.npmjs.com/shelljs)|v0.8.3|N/A|N/A |BSD-3-Clause|[CVE-2022-0144](https://github.com/advisories/GHSA-4rq4-32rv-6wp6) (High)<br/>[](https://github.com/advisories/GHSA-64g7-mvw6-v9qj) (Moderate)|
+|[tar](https://www.npmjs.com/tar)|v6.0.1|N/A|N/A |ISC|[CVE-2021-32804](https://github.com/advisories/GHSA-3jfq-g458-7qm9) (High)<br/>[CVE-2021-37701](https://github.com/advisories/GHSA-9r2w-394v-53qc) (High)<br/>[CVE-2021-32803](https://github.com/advisories/GHSA-r628-mhmh-qjhw) (High)<br/>[CVE-2021-37713](https://github.com/advisories/GHSA-5955-9wpr-37jh) (High)<br/>[CVE-2021-37712](https://github.com/advisories/GHSA-qq89-hq3f-393p) (High)|
+|[terser](https://www.npmjs.com/terser)|v4.1.4|N/A|N/A |BSD-2-Clause|[CVE-2022-25858](https://github.com/advisories/GHSA-4wf5-vphf-c2xc) (High)|
+|[ajv](https://www.npmjs.com/ajv)|v6.10.2|N/A|N/A |MIT|[CVE-2020-15366](https://github.com/advisories/GHSA-v88g-cgmw-v5xw) (Moderate)|
+|[bl](https://www.npmjs.com/bl)|v2.0.0|N/A|N/A |MIT|[CVE-2020-8244](https://github.com/advisories/GHSA-pp7h-53gx-mx7r) (Moderate)|
+|[debug](https://www.npmjs.com/debug)|v4.1.1|N/A|N/A |MIT|[CVE-2017-16137](https://github.com/advisories/GHSA-gxpj-cx7g-858c) (Moderate)|
+|[got](https://www.npmjs.com/got)|v11.8.3|N/A|N/A |MIT|[CVE-2022-33987](https://github.com/advisories/GHSA-pfrx-2q88-qq97) (Moderate)|
+|[hosted-git-info](https://www.npmjs.com/hosted-git-info)|v2.8.4|N/A|N/A |ISC|[CVE-2021-23362](https://github.com/advisories/GHSA-43f8-2h32-f4cj) (Moderate)|
+|[ip](https://www.npmjs.com/ip)|v1.1.5|N/A|N/A |MIT|[CVE-2023-42282](https://github.com/advisories/GHSA-78xj-cgh5-2h22) (Moderate)|
+|[pkg](https://www.npmjs.com/pkg)|v4.3.4|N/A|N/A |MIT|[CVE-2024-24828](https://github.com/advisories/GHSA-22r3-9w55-cj54) (Moderate)|
+|[request](https://www.npmjs.com/request)|v2.88.0|N/A|N/A |Apache-2.0|[CVE-2023-28155](https://github.com/advisories/GHSA-p8p7-x288-28g6) (Moderate)|
+|[semantic-release](https://www.npmjs.com/semantic-release)|v19.0.2|N/A|N/A |MIT|[CVE-2022-31051](https://github.com/advisories/GHSA-x2pg-mjhr-2m5x) (Moderate)|
+|[word-wrap](https://www.npmjs.com/word-wrap)|v1.2.3|N/A|N/A |MIT|[CVE-2023-26115](https://github.com/advisories/GHSA-j8xg-fqg3-53r7) (Moderate)|
 |[@babel/cli](https://www.npmjs.com/@babel/cli)|v7.5.5|N/A|N/A |MIT|N/A|
 |[@babel/code-frame](https://www.npmjs.com/@babel/code-frame)|v7.5.5|N/A|N/A |MIT|N/A|
 |[@babel/core](https://www.npmjs.com/@babel/core)|v7.7.4|N/A|N/A |MIT|N/A|
@@ -828,7 +850,6 @@ Full tech stack [here](/techstack.md)
 |[@babel/preset-typescript](https://www.npmjs.com/@babel/preset-typescript)|v7.13.0|N/A|N/A |MIT|N/A|
 |[@babel/register](https://www.npmjs.com/@babel/register)|v7.0.0|N/A|N/A |MIT|N/A|
 |[@babel/template](https://www.npmjs.com/@babel/template)|v7.6.0|N/A|N/A |MIT|N/A|
-|[@babel/traverse](https://www.npmjs.com/@babel/traverse)|v7.6.0|N/A|N/A |MIT|[CVE-2023-45133](https://github.com/advisories/GHSA-67hx-6x53-jw92) (Critical)|
 |[@babel/types](https://www.npmjs.com/@babel/types)|v7.6.1|N/A|N/A |MIT|N/A|
 |[@commitlint/cli](https://www.npmjs.com/@commitlint/cli)|v8.1.0|N/A|N/A |MIT|N/A|
 |[@commitlint/config-conventional](https://www.npmjs.com/@commitlint/config-conventional)|v8.1.0|N/A|N/A |MIT|N/A|
@@ -856,9 +877,7 @@ Full tech stack [here](/techstack.md)
 |[JSONStream](https://www.npmjs.com/JSONStream)|v1.3.5|N/A|N/A |MIT,Apache-2.0|N/A|
 |[abbrev](https://www.npmjs.com/abbrev)|v1.1.1|N/A|N/A |ISC|N/A|
 |[acorn](https://www.npmjs.com/acorn)|v7.1.1|N/A|N/A |MIT|N/A|
-|[ajv](https://www.npmjs.com/ajv)|v6.10.2|N/A|N/A |MIT|[CVE-2020-15366](https://github.com/advisories/GHSA-v88g-cgmw-v5xw) (Moderate)|
 |[ansi](https://www.npmjs.com/ansi)|v0.3.1|N/A|N/A |MIT|N/A|
-|[ansi-regex](https://www.npmjs.com/ansi-regex)|v3.0.0|N/A|N/A |MIT|[CVE-2021-3807](https://github.com/advisories/GHSA-93q8-gq69-wqmw) (High)|
 |[ansi-styles](https://www.npmjs.com/ansi-styles)|v3.2.1|N/A|N/A |MIT|N/A|
 |[archy](https://www.npmjs.com/archy)|v1.0.0|N/A|N/A |MIT|N/A|
 |[argparse](https://www.npmjs.com/argparse)|v1.0.10|N/A|N/A |MIT|N/A|
@@ -884,7 +903,6 @@ Full tech stack [here](/techstack.md)
 |[balanced-match](https://www.npmjs.com/balanced-match)|v1.0.0|N/A|N/A |MIT|N/A|
 |[benchmark](https://www.npmjs.com/benchmark)|v2.1.4|N/A|N/A |MIT|N/A|
 |[bindings](https://www.npmjs.com/bindings)|v1.5.0|N/A|N/A |MIT|N/A|
-|[bl](https://www.npmjs.com/bl)|v2.0.0|N/A|N/A |MIT|[CVE-2020-8244](https://github.com/advisories/GHSA-pp7h-53gx-mx7r) (Moderate)|
 |[bluebird](https://www.npmjs.com/bluebird)|v3.5.3|N/A|N/A |MIT|N/A|
 |[brace-expansion](https://www.npmjs.com/brace-expansion)|v1.1.11|N/A|N/A |MIT|N/A|
 |[brfs](https://www.npmjs.com/brfs)|v2.0.1|N/A|N/A |MIT|N/A|
@@ -919,7 +937,6 @@ Full tech stack [here](/techstack.md)
 |[cross-spawn](https://www.npmjs.com/cross-spawn)|v4.0.2|N/A|N/A |MIT|N/A|
 |[d3](https://www.npmjs.com/d3)|v5.7.0|N/A|N/A |ISC|N/A|
 |[dateformat](https://www.npmjs.com/dateformat)|v1.0.11|N/A|N/A |MIT|N/A|
-|[debug](https://www.npmjs.com/debug)|v4.1.1|N/A|N/A |MIT|[CVE-2017-16137](https://github.com/advisories/GHSA-gxpj-cx7g-858c) (Moderate)|
 |[decamelize](https://www.npmjs.com/decamelize)|v1.2.0|N/A|N/A |MIT|N/A|
 |[dedent](https://www.npmjs.com/dedent)|v0.7.0|N/A|N/A |MIT|N/A|
 |[defaults](https://www.npmjs.com/defaults)|v1.0.3|N/A|N/A |MIT|N/A|
@@ -929,8 +946,6 @@ Full tech stack [here](/techstack.md)
 |[depd](https://www.npmjs.com/depd)|v2.0.0|N/A|N/A |MIT|N/A|
 |[diff](https://www.npmjs.com/diff)|v4.0.1|N/A|N/A |BSD-3-Clause|N/A|
 |[doctrine](https://www.npmjs.com/doctrine)|v3.0.0|N/A|N/A |Apache-2.0|N/A|
-|[dot](https://www.npmjs.com/dot)|v1.0.3|N/A|N/A |MIT|[CVE-2020-8141](https://github.com/advisories/GHSA-297x-8xj4-vcxv) (High)<br/>[](https://github.com/advisories/GHSA-4859-gpc7-4j66) (Moderate)|
-|[dot-prop](https://www.npmjs.com/dot-prop)|v4.2.0|N/A|N/A |MIT|[CVE-2020-8116](https://github.com/advisories/GHSA-ff7x-qrg7-qggm) (High)|
 |[dts-bundle](https://www.npmjs.com/dts-bundle)|v0.7.3|N/A|N/A |MIT|N/A|
 |[dtslint](https://www.npmjs.com/dtslint)|v4.0.0|N/A|N/A |MIT|N/A|
 |[egg-bin](https://www.npmjs.com/egg-bin)|v4.9.0|N/A|N/A |MIT|N/A|
@@ -980,7 +995,6 @@ Full tech stack [here](/techstack.md)
 |[function-bind](https://www.npmjs.com/function-bind)|v1.1.1|N/A|N/A |MIT|N/A|
 |[gh-pages](https://www.npmjs.com/gh-pages)|v3.1.0|N/A|N/A |MIT|N/A|
 |[glob](https://www.npmjs.com/glob)|v7.1.4|N/A|N/A |ISC|N/A|
-|[got](https://www.npmjs.com/got)|v11.8.3|N/A|N/A |MIT|[CVE-2022-33987](https://github.com/advisories/GHSA-pfrx-2q88-qq97) (Moderate)|
 |[graceful-fs](https://www.npmjs.com/graceful-fs)|v4.2.2|N/A|N/A |ISC|N/A|
 |[gray-matter](https://www.npmjs.com/gray-matter)|v4.0.3|N/A|N/A |MIT|N/A|
 |[grunt-babel](https://www.npmjs.com/grunt-babel)|v8.0.0|N/A|N/A |MIT|N/A|
@@ -992,7 +1006,6 @@ Full tech stack [here](/techstack.md)
 |[grunt-contrib-watch](https://www.npmjs.com/grunt-contrib-watch)|v1.1.0|N/A|N/A |MIT|N/A|
 |[grunt-eslint](https://www.npmjs.com/grunt-eslint)|v23.0.0|N/A|N/A |MIT|N/A|
 |[grunt-exec](https://www.npmjs.com/grunt-exec)|v3.0.0|N/A|N/A |MIT|N/A|
-|[grunt-karma](https://www.npmjs.com/grunt-karma)|v4.0.0|N/A|N/A |MIT|[CVE-2022-37602](https://github.com/advisories/GHSA-hcj4-xf6x-63wj) (Critical)|
 |[grunt-mocha-istanbul](https://www.npmjs.com/grunt-mocha-istanbul)|v5.0.2|N/A|N/A |MIT|N/A|
 |[grunt-mocha-test](https://www.npmjs.com/grunt-mocha-test)|v0.13.3|N/A|N/A |MIT|N/A|
 |[grunt-webpack](https://www.npmjs.com/grunt-webpack)|v3.1.3|N/A|N/A |MIT|N/A|
@@ -1005,7 +1018,6 @@ Full tech stack [here](/techstack.md)
 |[gulp-tag-version](https://www.npmjs.com/gulp-tag-version)|v1.3.0|N/A|N/A |BSD-2-Clause|N/A|
 |[gzip-size-cli](https://www.npmjs.com/gzip-size-cli)|v4.0.0|N/A|N/A |MIT|N/A|
 |[has](https://www.npmjs.com/has)|v1.0.3|N/A|N/A |MIT|N/A|
-|[hosted-git-info](https://www.npmjs.com/hosted-git-info)|v2.8.4|N/A|N/A |ISC|[CVE-2021-23362](https://github.com/advisories/GHSA-43f8-2h32-f4cj) (Moderate)|
 |[https-proxy-agent](https://www.npmjs.com/https-proxy-agent)|v5.0.0|N/A|N/A |MIT|N/A|
 |[husky](https://www.npmjs.com/husky)|v0.14.3|N/A|N/A |MIT|N/A|
 |[hyperquest](https://www.npmjs.com/hyperquest)|v2.1.3|N/A|N/A |MIT|N/A|
@@ -1015,7 +1027,6 @@ Full tech stack [here](/techstack.md)
 |[indent-string](https://www.npmjs.com/indent-string)|v4.0.0|N/A|N/A |MIT|N/A|
 |[inherits](https://www.npmjs.com/inherits)|v2.0.4|N/A|N/A |ISC|N/A|
 |[ini](https://www.npmjs.com/ini)|v3.0.0|N/A|N/A |ISC|N/A|
-|[ip](https://www.npmjs.com/ip)|v1.1.5|N/A|N/A |MIT|[CVE-2023-42282](https://github.com/advisories/GHSA-78xj-cgh5-2h22) (Moderate)|
 |[is-glob](https://www.npmjs.com/is-glob)|v4.0.1|N/A|N/A |MIT|N/A|
 |[jasmine-spec-reporter](https://www.npmjs.com/jasmine-spec-reporter)|v4.1.1|N/A|N/A |Apache-2.0|N/A|
 |[jest-config](https://www.npmjs.com/jest-config)|v27.5.1|N/A|N/A |MIT|N/A|
@@ -1024,7 +1035,6 @@ Full tech stack [here](/techstack.md)
 |[jscs](https://www.npmjs.com/jscs)|v3.0.7|N/A|N/A |MIT|N/A|
 |[jsesc](https://www.npmjs.com/jsesc)|v2.5.2|N/A|N/A |MIT|N/A|
 |[json-stable-stringify](https://www.npmjs.com/json-stable-stringify)|N/A|N/A|N/A |MIT|N/A|
-|[json5](https://www.npmjs.com/json5)|v0.5.1|N/A|N/A |MIT|[CVE-2022-46175](https://github.com/advisories/GHSA-9c47-m6qq-7p4h) (High)|
 |[jsondiffpatch](https://www.npmjs.com/jsondiffpatch)|v0.3.5|N/A|N/A |MIT|N/A|
 |[karma-browserify](https://www.npmjs.com/karma-browserify)|v6.0.0|N/A|N/A |MIT|N/A|
 |[karma-chrome-launcher](https://www.npmjs.com/karma-chrome-launcher)|v2.2.0|N/A|N/A |MIT|N/A|
@@ -1042,9 +1052,6 @@ Full tech stack [here](/techstack.md)
 |[lolex](https://www.npmjs.com/lolex)|v2.1.2|N/A|N/A |BSD-3-Clause|N/A|
 |[lru-cache](https://www.npmjs.com/lru-cache)|v4.1.5|N/A|N/A |ISC|N/A|
 |[markdownlint-cli](https://www.npmjs.com/markdownlint-cli)|v0.31.1|N/A|N/A |MIT|N/A|
-|[marked](https://www.npmjs.com/marked)|v4.0.8|N/A|N/A |MIT|[CVE-2022-21681](https://github.com/advisories/GHSA-5v2h-r2cx-5xgj) (High)<br/>[CVE-2022-21680](https://github.com/advisories/GHSA-rrrm-qjm4-v8hf) (High)|
-|[minimatch](https://www.npmjs.com/minimatch)|v3.0.4|N/A|N/A |ISC|[CVE-2022-3517](https://github.com/advisories/GHSA-f8q6-p94x-37v3) (High)|
-|[minimist](https://www.npmjs.com/minimist)|v1.2.0|N/A|N/A |MIT|[CVE-2021-44906](https://github.com/advisories/GHSA-xvch-5gv4-984h) (Critical)<br/>[](https://github.com/advisories/GHSA-7fhm-mqm4-2wp7) (Moderate)<br/>[CVE-2020-7598](https://github.com/advisories/GHSA-vh95-rmgr-6w4m) (Moderate)|
 |[mkdirp](https://www.npmjs.com/mkdirp)|v0.5.1|N/A|N/A |MIT|N/A|
 |[mocha-junit-reporter](https://www.npmjs.com/mocha-junit-reporter)|v2.0.0|N/A|N/A |MIT|N/A|
 |[mocha-lcov-reporter](https://www.npmjs.com/mocha-lcov-reporter)|v1.2.0|N/A|N/A |BSD-2-Clause|N/A|
@@ -1066,7 +1073,6 @@ Full tech stack [here](/techstack.md)
 |[p-map](https://www.npmjs.com/p-map)|v4.0.0|N/A|N/A |MIT|N/A|
 |[path-is-absolute](https://www.npmjs.com/path-is-absolute)|v1.0.1|N/A|N/A |MIT|N/A|
 |[pegjs](https://www.npmjs.com/pegjs)|v0.10.0|N/A|N/A |MIT|N/A|
-|[pkg](https://www.npmjs.com/pkg)|v4.3.4|N/A|N/A |MIT|[CVE-2024-24828](https://github.com/advisories/GHSA-22r3-9w55-cj54) (Moderate)|
 |[prelude-ls](https://www.npmjs.com/prelude-ls)|v1.1.2|N/A|N/A |MIT|N/A|
 |[prettier-eslint-cli](https://www.npmjs.com/prettier-eslint-cli)|v4.7.1|N/A|N/A |MIT|N/A|
 |[prettier-standard](https://www.npmjs.com/prettier-standard)|v15.0.1|N/A|N/A |MIT|N/A|
@@ -1089,7 +1095,6 @@ Full tech stack [here](/techstack.md)
 |[remark-preset-wooorm](https://www.npmjs.com/remark-preset-wooorm)|v6.0.0|N/A|N/A |MIT|N/A|
 |[remark-stringify](https://www.npmjs.com/remark-stringify)|v10.0.2|N/A|N/A |MIT|N/A|
 |[replace](https://www.npmjs.com/replace)|v1.2.1|N/A|N/A |MIT|N/A|
-|[request](https://www.npmjs.com/request)|v2.88.0|N/A|N/A |Apache-2.0|[CVE-2023-28155](https://github.com/advisories/GHSA-p8p7-x288-28g6) (Moderate)|
 |[resolve-from](https://www.npmjs.com/resolve-from)|v4.0.0|N/A|N/A |MIT|N/A|
 |[retry](https://www.npmjs.com/retry)|v0.12.0|N/A|N/A |MIT|N/A|
 |[rimraf](https://www.npmjs.com/rimraf)|v2.7.1|N/A|N/A |ISC|N/A|
@@ -1103,8 +1108,6 @@ Full tech stack [here](/techstack.md)
 |[rollup-plugin-typescript2](https://www.npmjs.com/rollup-plugin-typescript2)|v0.20.1|N/A|N/A |MIT|N/A|
 |[safe-buffer](https://www.npmjs.com/safe-buffer)|v5.1.2|N/A|N/A |MIT|N/A|
 |[safe-publish-latest](https://www.npmjs.com/safe-publish-latest)|v2.0.0|N/A|N/A |MIT|N/A|
-|[semantic-release](https://www.npmjs.com/semantic-release)|v19.0.2|N/A|N/A |MIT|[CVE-2022-31051](https://github.com/advisories/GHSA-x2pg-mjhr-2m5x) (Moderate)|
-|[shelljs](https://www.npmjs.com/shelljs)|v0.8.3|N/A|N/A |BSD-3-Clause|[CVE-2022-0144](https://github.com/advisories/GHSA-4rq4-32rv-6wp6) (High)<br/>[](https://github.com/advisories/GHSA-64g7-mvw6-v9qj) (Moderate)|
 |[should](https://www.npmjs.com/should)|v5.0.1|N/A|N/A |MIT|N/A|
 |[sinon-chai](https://www.npmjs.com/sinon-chai)|v3.7.0|N/A|N/A |BSD-2-Clause,WTFPL|N/A|
 |[size-limit](https://www.npmjs.com/size-limit)|v7.0.8|N/A|N/A |MIT|N/A|
@@ -1123,13 +1126,11 @@ Full tech stack [here](/techstack.md)
 |[tap-spec](https://www.npmjs.com/tap-spec)|v5.0.0|N/A|N/A |MIT|N/A|
 |[tape](https://www.npmjs.com/tape)|v0.1.1|N/A|N/A |MIT|N/A|
 |[tape-run](https://www.npmjs.com/tape-run)|v6.0.0|N/A|N/A |MIT|N/A|
-|[tar](https://www.npmjs.com/tar)|v6.0.1|N/A|N/A |ISC|[CVE-2021-32804](https://github.com/advisories/GHSA-3jfq-g458-7qm9) (High)<br/>[CVE-2021-37701](https://github.com/advisories/GHSA-9r2w-394v-53qc) (High)<br/>[CVE-2021-32803](https://github.com/advisories/GHSA-r628-mhmh-qjhw) (High)<br/>[CVE-2021-37713](https://github.com/advisories/GHSA-5955-9wpr-37jh) (High)<br/>[CVE-2021-37712](https://github.com/advisories/GHSA-qq89-hq3f-393p) (High)|
 |[tar-fs](https://www.npmjs.com/tar-fs)|v1.16.2|N/A|N/A |MIT|N/A|
 |[tar-stream](https://www.npmjs.com/tar-stream)|v1.6.2|N/A|N/A |MIT|N/A|
 |[temp](https://www.npmjs.com/temp)|v0.8.3|N/A|N/A |MIT|N/A|
 |[tempfile](https://www.npmjs.com/tempfile)|v3.0.0|N/A|N/A |MIT|N/A|
 |[tempy](https://www.npmjs.com/tempy)|v0.5.0|N/A|N/A |MIT|N/A|
-|[terser](https://www.npmjs.com/terser)|v4.1.4|N/A|N/A |BSD-2-Clause|[CVE-2022-25858](https://github.com/advisories/GHSA-4wf5-vphf-c2xc) (High)|
 |[terser-webpack-plugin](https://www.npmjs.com/terser-webpack-plugin)|v5.1.2|N/A|N/A |MIT|N/A|
 |[text-table](https://www.npmjs.com/text-table)|v0.2.0|N/A|N/A |MIT|N/A|
 |[through2](https://www.npmjs.com/through2)|v2.0.3|N/A|N/A |MIT|N/A|
@@ -1151,7 +1152,6 @@ Full tech stack [here](/techstack.md)
 |[webpack-cli](https://www.npmjs.com/webpack-cli)|v4.0.0|N/A|N/A |MIT|N/A|
 |[webpack-dev-server](https://www.npmjs.com/webpack-dev-server)|v3.1.14|N/A|N/A |MIT|N/A|
 |[which](https://www.npmjs.com/which)|v1.3.1|N/A|N/A |ISC|N/A|
-|[word-wrap](https://www.npmjs.com/word-wrap)|v1.2.3|N/A|N/A |MIT|[CVE-2023-26115](https://github.com/advisories/GHSA-j8xg-fqg3-53r7) (Moderate)|
 |[write](https://www.npmjs.com/write)|v1.0.3|N/A|N/A |MIT|N/A|
 |[write-file-atomic](https://www.npmjs.com/write-file-atomic)|v2.4.3|N/A|N/A |ISC|N/A|
 |[xo](https://www.npmjs.com/xo)|v0.25.3|N/A|N/A |MIT|N/A|
